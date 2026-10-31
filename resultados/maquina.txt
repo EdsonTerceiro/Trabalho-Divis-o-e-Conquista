@@ -1,0 +1,5 @@
+processador: Intel(R) Xeon(R) Processor @ 2.10GHz
+nucleos: 2
+memoria: 7.8 GB
+sistema: Linux-6.18.44-fc-v185-x86_64-with-glibc2.39
+python: 3.13.18

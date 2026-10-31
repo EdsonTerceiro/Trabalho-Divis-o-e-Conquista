@@ -16,7 +16,7 @@ INFINITO = float("inf")
 
 # limiar: se o subproblema tiver ate LIMIAR pontos, resolve por forca bruta.
 # O valor foi escolhido pelos experimentos (ver experimentos.py e o relatorio).
-LIMIAR_PADRAO = 16
+LIMIAR_PADRAO = 8
 
 
 def distancia(p, q):

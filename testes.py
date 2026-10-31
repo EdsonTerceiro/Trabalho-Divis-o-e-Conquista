@@ -20,7 +20,7 @@ PASTA = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(PASTA, "casos_de_teste.json"), encoding="utf-8") as f:
     CASOS = json.load(f)
 
-LIMIARES_TESTADOS = [1, 2, 3, 4, 8, e2.LIMIAR_PADRAO]
+LIMIARES_TESTADOS = [1, 2, 3, 4, 8, e2.LIMIAR_PADRAO, 12, 16]
 
 
 class TesteOrdenacao(unittest.TestCase):
