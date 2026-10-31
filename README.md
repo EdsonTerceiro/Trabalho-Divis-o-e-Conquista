@@ -16,7 +16,7 @@ Os gráficos são gerados por um script Python pequeno (`graficos.py`, com `matp
 | `src/Experimentos.java` | Etapa 3: mede os tempos e grava `resultados/medicoes.csv` e `resultados/maquina.txt` |
 | `graficos.py` | lê o CSV e gera os gráficos `.png` e as tabelas (`resultados/tabelas.md`) |
 | `resultados/` | medições brutas, configuração da máquina, gráficos e tabelas |
-| `relatorio/` | relatório em PDF |
+| `relatorio/` | relatório em PDF (exportado do documento do relatório) |
 
 ## Como executar
 
