@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Etapa 3 - Analise experimental
 #
 # Mede o tempo de cada algoritmo para tamanhos crescentes (media de 5 execucoes),
@@ -39,8 +40,8 @@ os.makedirs(PASTA_RES, exist_ok=True)
 
 # cores (paleta categorica fixa) + marcadores diferentes, para nao depender so da cor
 ESTILO = {
-    "Forca bruta": dict(color="#2a78d6", marker="o"),
-    "Divisao e conquista": dict(color="#eb6834", marker="s"),
+    "Força bruta": dict(color="#2a78d6", marker="o"),
+    "Divisão e conquista": dict(color="#eb6834", marker="s"),
     "Kadane O(n)": dict(color="#1baf7a", marker="^"),
 }
 
@@ -212,23 +213,23 @@ def config_maquina():
 if __name__ == "__main__":
     sys.setrecursionlimit(10000)
     print("Etapa 1 - tamanhos grandes")
-    medir("etapa1", {"Forca bruta": e1.forca_bruta,
-                     "Divisao e conquista": e1.divisao_conquista,
+    medir("etapa1", {"Força bruta": e1.forca_bruta,
+                     "Divisão e conquista": e1.divisao_conquista,
                      "Kadane O(n)": e1.kadane}, TAMANHOS, vetor_aleatorio)
 
     print("Etapa 1 - tamanhos pequenos (cada execucao repete a chamada varias vezes)")
-    medir("etapa1_pequeno", {"Forca bruta": e1.forca_bruta,
-                             "Divisao e conquista": e1.divisao_conquista,
+    medir("etapa1_pequeno", {"Força bruta": e1.forca_bruta,
+                             "Divisão e conquista": e1.divisao_conquista,
                              "Kadane O(n)": e1.kadane},
           TAMANHOS_PEQUENOS, vetor_aleatorio, repeticoes_por_n=lambda n: max(20, 20000 // n))
 
     print("Etapa 2 - tamanhos grandes (D&C com o limiar escolhido)")
-    medir("etapa2", {"Forca bruta": e2.forca_bruta,
-                     "Divisao e conquista": e2.divisao_conquista}, TAMANHOS, pontos_aleatorios)
+    medir("etapa2", {"Força bruta": e2.forca_bruta,
+                     "Divisão e conquista": e2.divisao_conquista}, TAMANHOS, pontos_aleatorios)
 
     print("Etapa 2 - tamanhos pequenos (D&C 'pura', limiar = 3)")
-    medir("etapa2_pequeno", {"Forca bruta": e2.forca_bruta,
-                             "Divisao e conquista": lambda p: e2.divisao_conquista(p, 3)},
+    medir("etapa2_pequeno", {"Força bruta": e2.forca_bruta,
+                             "Divisão e conquista": lambda p: e2.divisao_conquista(p, 3)},
           TAMANHOS_PEQUENOS, pontos_aleatorios, repeticoes_por_n=lambda n: max(10, 4000 // n))
 
     print("Etapa 2 - escolha do limiar")
@@ -266,9 +267,9 @@ if __name__ == "__main__":
         return n
 
     grafico_tempos("etapa1", "Etapa 1 - subarranjo de soma maxima", "etapa1_tempos.png",
-                   {"Forca bruta": n2, "Divisao e conquista": nlogn, "Kadane O(n)": lin})
+                   {"Força bruta": n2, "Divisão e conquista": nlogn, "Kadane O(n)": lin})
     grafico_tempos("etapa2", "Etapa 2 - par de pontos mais proximos", "etapa2_tempos.png",
-                   {"Forca bruta": n2, "Divisao e conquista": nlogn})
+                   {"Força bruta": n2, "Divisão e conquista": nlogn})
     grafico_simples("etapa1_pequeno", "Etapa 1 - entradas pequenas", "etapa1_pequeno.png")
     grafico_simples("etapa2_pequeno", "Etapa 2 - entradas pequenas (D&C com limiar 3)", "etapa2_pequeno.png")
     grafico_limiar()

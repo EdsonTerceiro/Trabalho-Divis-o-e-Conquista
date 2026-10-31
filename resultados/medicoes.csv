@@ -1,736 +1,736 @@
 experimento,algoritmo,n,limiar,execucao,tempo_s
-etapa1,Forca bruta,100,,1,0.000261479
-etapa1,Divisao e conquista,100,,1,0.000119916
-etapa1,Kadane O(n),100,,1,0.000023227
-etapa1,Forca bruta,100,,2,0.000217011
-etapa1,Divisao e conquista,100,,2,0.000113150
-etapa1,Kadane O(n),100,,2,0.000023997
-etapa1,Forca bruta,100,,3,0.000246468
-etapa1,Divisao e conquista,100,,3,0.000108302
-etapa1,Kadane O(n),100,,3,0.000020726
-etapa1,Forca bruta,100,,4,0.000220236
-etapa1,Divisao e conquista,100,,4,0.000108788
-etapa1,Kadane O(n),100,,4,0.000048885
-etapa1,Forca bruta,100,,5,0.000303502
-etapa1,Divisao e conquista,100,,5,0.000108453
-etapa1,Kadane O(n),100,,5,0.000025417
-etapa1,Forca bruta,200,,1,0.001033039
-etapa1,Divisao e conquista,200,,1,0.000250975
-etapa1,Kadane O(n),200,,1,0.000033340
-etapa1,Forca bruta,200,,2,0.000887658
-etapa1,Divisao e conquista,200,,2,0.000249008
-etapa1,Kadane O(n),200,,2,0.000032997
-etapa1,Forca bruta,200,,3,0.000902783
-etapa1,Divisao e conquista,200,,3,0.000223746
-etapa1,Kadane O(n),200,,3,0.000030903
-etapa1,Forca bruta,200,,4,0.000865465
-etapa1,Divisao e conquista,200,,4,0.000232636
-etapa1,Kadane O(n),200,,4,0.000044002
-etapa1,Forca bruta,200,,5,0.001192530
-etapa1,Divisao e conquista,200,,5,0.000220546
-etapa1,Kadane O(n),200,,5,0.000032098
-etapa1,Forca bruta,400,,1,0.003581883
-etapa1,Divisao e conquista,400,,1,0.000516137
-etapa1,Kadane O(n),400,,1,0.000060613
-etapa1,Forca bruta,400,,2,0.003570157
-etapa1,Divisao e conquista,400,,2,0.000499256
-etapa1,Kadane O(n),400,,2,0.000068631
-etapa1,Forca bruta,400,,3,0.003560939
-etapa1,Divisao e conquista,400,,3,0.000490830
-etapa1,Kadane O(n),400,,3,0.000060868
-etapa1,Forca bruta,400,,4,0.003661106
-etapa1,Divisao e conquista,400,,4,0.000523800
-etapa1,Kadane O(n),400,,4,0.000070171
-etapa1,Forca bruta,400,,5,0.003552628
-etapa1,Divisao e conquista,400,,5,0.000500342
-etapa1,Kadane O(n),400,,5,0.000077425
-etapa1,Forca bruta,800,,1,0.015025769
-etapa1,Divisao e conquista,800,,1,0.001033881
-etapa1,Kadane O(n),800,,1,0.000114864
-etapa1,Forca bruta,800,,2,0.014862017
-etapa1,Divisao e conquista,800,,2,0.000991059
-etapa1,Kadane O(n),800,,2,0.000118937
-etapa1,Forca bruta,800,,3,0.014730061
-etapa1,Divisao e conquista,800,,3,0.000996708
-etapa1,Kadane O(n),800,,3,0.000131714
-etapa1,Forca bruta,800,,4,0.015125507
-etapa1,Divisao e conquista,800,,4,0.000983439
-etapa1,Kadane O(n),800,,4,0.000125692
-etapa1,Forca bruta,800,,5,0.015171051
-etapa1,Divisao e conquista,800,,5,0.000988172
-etapa1,Kadane O(n),800,,5,0.000114826
-etapa1,Forca bruta,1600,,1,0.061492630
-etapa1,Divisao e conquista,1600,,1,0.002067800
-etapa1,Kadane O(n),1600,,1,0.000218133
-etapa1,Forca bruta,1600,,2,0.061393940
-etapa1,Divisao e conquista,1600,,2,0.002075927
-etapa1,Kadane O(n),1600,,2,0.000216406
-etapa1,Forca bruta,1600,,3,0.065662107
-etapa1,Divisao e conquista,1600,,3,0.002089512
-etapa1,Kadane O(n),1600,,3,0.000219043
-etapa1,Forca bruta,1600,,4,0.060902080
-etapa1,Divisao e conquista,1600,,4,0.002094007
-etapa1,Kadane O(n),1600,,4,0.000216330
-etapa1,Forca bruta,1600,,5,0.061921824
-etapa1,Divisao e conquista,1600,,5,0.002531472
-etapa1,Kadane O(n),1600,,5,0.000259174
-etapa1,Forca bruta,3200,,1,0.246032540
-etapa1,Divisao e conquista,3200,,1,0.004307097
-etapa1,Kadane O(n),3200,,1,0.000429481
-etapa1,Forca bruta,3200,,2,0.252448638
-etapa1,Divisao e conquista,3200,,2,0.004315470
-etapa1,Kadane O(n),3200,,2,0.000412239
-etapa1,Forca bruta,3200,,3,0.251974530
-etapa1,Divisao e conquista,3200,,3,0.004462310
-etapa1,Kadane O(n),3200,,3,0.000495667
-etapa1,Forca bruta,3200,,4,0.254626237
-etapa1,Divisao e conquista,3200,,4,0.004273000
-etapa1,Kadane O(n),3200,,4,0.000428323
-etapa1,Forca bruta,3200,,5,0.288379967
-etapa1,Divisao e conquista,3200,,5,0.007030427
-etapa1,Kadane O(n),3200,,5,0.000706229
-etapa1,Forca bruta,6400,,1,1.126116325
-etapa1,Divisao e conquista,6400,,1,0.008726969
-etapa1,Kadane O(n),6400,,1,0.001004633
-etapa1,Forca bruta,6400,,2,1.038121521
-etapa1,Divisao e conquista,6400,,2,0.009169164
-etapa1,Kadane O(n),6400,,2,0.000982340
-etapa1,Forca bruta,6400,,3,1.156608668
-etapa1,Divisao e conquista,6400,,3,0.008851695
-etapa1,Kadane O(n),6400,,3,0.000974845
-etapa1,Forca bruta,6400,,4,1.059936578
-etapa1,Divisao e conquista,6400,,4,0.008997920
-etapa1,Kadane O(n),6400,,4,0.000878273
-etapa1,Forca bruta,6400,,5,1.048458983
-etapa1,Divisao e conquista,6400,,5,0.008591353
-etapa1,Kadane O(n),6400,,5,0.001040947
-etapa1_pequeno,Forca bruta,2,,1,0.000000405
-etapa1_pequeno,Divisao e conquista,2,,1,0.000000685
-etapa1_pequeno,Kadane O(n),2,,1,0.000000265
-etapa1_pequeno,Forca bruta,2,,2,0.000000390
-etapa1_pequeno,Divisao e conquista,2,,2,0.000000659
-etapa1_pequeno,Kadane O(n),2,,2,0.000000272
-etapa1_pequeno,Forca bruta,2,,3,0.000000379
-etapa1_pequeno,Divisao e conquista,2,,3,0.000000793
-etapa1_pequeno,Kadane O(n),2,,3,0.000000268
-etapa1_pequeno,Forca bruta,2,,4,0.000000378
-etapa1_pequeno,Divisao e conquista,2,,4,0.000000743
-etapa1_pequeno,Kadane O(n),2,,4,0.000000283
-etapa1_pequeno,Forca bruta,2,,5,0.000000411
-etapa1_pequeno,Divisao e conquista,2,,5,0.000000722
-etapa1_pequeno,Kadane O(n),2,,5,0.000000285
-etapa1_pequeno,Forca bruta,4,,1,0.000000719
-etapa1_pequeno,Divisao e conquista,4,,1,0.000001778
-etapa1_pequeno,Kadane O(n),4,,1,0.000000452
-etapa1_pequeno,Forca bruta,4,,2,0.000000793
-etapa1_pequeno,Divisao e conquista,4,,2,0.000001920
-etapa1_pequeno,Kadane O(n),4,,2,0.000000470
-etapa1_pequeno,Forca bruta,4,,3,0.000000786
-etapa1_pequeno,Divisao e conquista,4,,3,0.000001857
-etapa1_pequeno,Kadane O(n),4,,3,0.000000444
-etapa1_pequeno,Forca bruta,4,,4,0.000000742
-etapa1_pequeno,Divisao e conquista,4,,4,0.000001821
-etapa1_pequeno,Kadane O(n),4,,4,0.000000479
-etapa1_pequeno,Forca bruta,4,,5,0.000000710
-etapa1_pequeno,Divisao e conquista,4,,5,0.000001802
-etapa1_pequeno,Kadane O(n),4,,5,0.000000470
-etapa1_pequeno,Forca bruta,8,,1,0.000001945
-etapa1_pequeno,Divisao e conquista,8,,1,0.000004360
-etapa1_pequeno,Kadane O(n),8,,1,0.000000972
-etapa1_pequeno,Forca bruta,8,,2,0.000002064
-etapa1_pequeno,Divisao e conquista,8,,2,0.000004447
-etapa1_pequeno,Kadane O(n),8,,2,0.000000947
-etapa1_pequeno,Forca bruta,8,,3,0.000002006
-etapa1_pequeno,Divisao e conquista,8,,3,0.000004486
-etapa1_pequeno,Kadane O(n),8,,3,0.000000902
-etapa1_pequeno,Forca bruta,8,,4,0.000001965
-etapa1_pequeno,Divisao e conquista,8,,4,0.000004454
-etapa1_pequeno,Kadane O(n),8,,4,0.000000892
-etapa1_pequeno,Forca bruta,8,,5,0.000001829
-etapa1_pequeno,Divisao e conquista,8,,5,0.000004415
-etapa1_pequeno,Kadane O(n),8,,5,0.000000905
-etapa1_pequeno,Forca bruta,16,,1,0.000006562
-etapa1_pequeno,Divisao e conquista,16,,1,0.000010122
-etapa1_pequeno,Kadane O(n),16,,1,0.000001826
-etapa1_pequeno,Forca bruta,16,,2,0.000006370
-etapa1_pequeno,Divisao e conquista,16,,2,0.000010014
-etapa1_pequeno,Kadane O(n),16,,2,0.000002143
-etapa1_pequeno,Forca bruta,16,,3,0.000006349
-etapa1_pequeno,Divisao e conquista,16,,3,0.000010078
-etapa1_pequeno,Kadane O(n),16,,3,0.000001829
-etapa1_pequeno,Forca bruta,16,,4,0.000006238
-etapa1_pequeno,Divisao e conquista,16,,4,0.000010129
-etapa1_pequeno,Kadane O(n),16,,4,0.000001946
-etapa1_pequeno,Forca bruta,16,,5,0.000006254
-etapa1_pequeno,Divisao e conquista,16,,5,0.000010028
-etapa1_pequeno,Kadane O(n),16,,5,0.000001827
-etapa1_pequeno,Forca bruta,32,,1,0.000022951
-etapa1_pequeno,Divisao e conquista,32,,1,0.000022165
-etapa1_pequeno,Kadane O(n),32,,1,0.000003811
-etapa1_pequeno,Forca bruta,32,,2,0.000022034
-etapa1_pequeno,Divisao e conquista,32,,2,0.000022154
-etapa1_pequeno,Kadane O(n),32,,2,0.000003749
-etapa1_pequeno,Forca bruta,32,,3,0.000021758
-etapa1_pequeno,Divisao e conquista,32,,3,0.000022312
-etapa1_pequeno,Kadane O(n),32,,3,0.000003879
-etapa1_pequeno,Forca bruta,32,,4,0.000022818
-etapa1_pequeno,Divisao e conquista,32,,4,0.000022868
-etapa1_pequeno,Kadane O(n),32,,4,0.000003847
-etapa1_pequeno,Forca bruta,32,,5,0.000022462
-etapa1_pequeno,Divisao e conquista,32,,5,0.000022296
-etapa1_pequeno,Kadane O(n),32,,5,0.000003953
-etapa1_pequeno,Forca bruta,64,,1,0.000089584
-etapa1_pequeno,Divisao e conquista,64,,1,0.000049831
-etapa1_pequeno,Kadane O(n),64,,1,0.000007696
-etapa1_pequeno,Forca bruta,64,,2,0.000082596
-etapa1_pequeno,Divisao e conquista,64,,2,0.000047855
-etapa1_pequeno,Kadane O(n),64,,2,0.000007243
-etapa1_pequeno,Forca bruta,64,,3,0.000083467
-etapa1_pequeno,Divisao e conquista,64,,3,0.000049642
-etapa1_pequeno,Kadane O(n),64,,3,0.000007384
-etapa1_pequeno,Forca bruta,64,,4,0.000089780
-etapa1_pequeno,Divisao e conquista,64,,4,0.000049227
-etapa1_pequeno,Kadane O(n),64,,4,0.000007468
-etapa1_pequeno,Forca bruta,64,,5,0.000093955
-etapa1_pequeno,Divisao e conquista,64,,5,0.000048331
-etapa1_pequeno,Kadane O(n),64,,5,0.000008202
-etapa1_pequeno,Forca bruta,128,,1,0.000349296
-etapa1_pequeno,Divisao e conquista,128,,1,0.000106137
-etapa1_pequeno,Kadane O(n),128,,1,0.000015816
-etapa1_pequeno,Forca bruta,128,,2,0.000324185
-etapa1_pequeno,Divisao e conquista,128,,2,0.000104556
-etapa1_pequeno,Kadane O(n),128,,2,0.000015292
-etapa1_pequeno,Forca bruta,128,,3,0.000334686
-etapa1_pequeno,Divisao e conquista,128,,3,0.000103345
-etapa1_pequeno,Kadane O(n),128,,3,0.000016109
-etapa1_pequeno,Forca bruta,128,,4,0.000354851
-etapa1_pequeno,Divisao e conquista,128,,4,0.000105783
-etapa1_pequeno,Kadane O(n),128,,4,0.000016423
-etapa1_pequeno,Forca bruta,128,,5,0.000350906
-etapa1_pequeno,Divisao e conquista,128,,5,0.000108388
-etapa1_pequeno,Kadane O(n),128,,5,0.000016253
-etapa1_pequeno,Forca bruta,256,,1,0.001408765
-etapa1_pequeno,Divisao e conquista,256,,1,0.000240193
-etapa1_pequeno,Kadane O(n),256,,1,0.000049882
-etapa1_pequeno,Forca bruta,256,,2,0.001496681
-etapa1_pequeno,Divisao e conquista,256,,2,0.000241884
-etapa1_pequeno,Kadane O(n),256,,2,0.000030931
-etapa1_pequeno,Forca bruta,256,,3,0.001335011
-etapa1_pequeno,Divisao e conquista,256,,3,0.000234949
-etapa1_pequeno,Kadane O(n),256,,3,0.000030465
-etapa1_pequeno,Forca bruta,256,,4,0.001349584
-etapa1_pequeno,Divisao e conquista,256,,4,0.000273490
-etapa1_pequeno,Kadane O(n),256,,4,0.000034804
-etapa1_pequeno,Forca bruta,256,,5,0.001357525
-etapa1_pequeno,Divisao e conquista,256,,5,0.000245107
-etapa1_pequeno,Kadane O(n),256,,5,0.000032308
-etapa2,Forca bruta,100,,1,0.000709311
-etapa2,Divisao e conquista,100,,1,0.000449248
-etapa2,Forca bruta,100,,2,0.000725559
-etapa2,Divisao e conquista,100,,2,0.000368042
-etapa2,Forca bruta,100,,3,0.000661033
-etapa2,Divisao e conquista,100,,3,0.000368860
-etapa2,Forca bruta,100,,4,0.000694694
-etapa2,Divisao e conquista,100,,4,0.000358802
-etapa2,Forca bruta,100,,5,0.000735733
-etapa2,Divisao e conquista,100,,5,0.000399073
-etapa2,Forca bruta,200,,1,0.002870625
-etapa2,Divisao e conquista,200,,1,0.000743446
-etapa2,Forca bruta,200,,2,0.002778460
-etapa2,Divisao e conquista,200,,2,0.000873748
-etapa2,Forca bruta,200,,3,0.002848555
-etapa2,Divisao e conquista,200,,3,0.000795003
-etapa2,Forca bruta,200,,4,0.002895819
-etapa2,Divisao e conquista,200,,4,0.000818960
-etapa2,Forca bruta,200,,5,0.002816211
-etapa2,Divisao e conquista,200,,5,0.000777204
-etapa2,Forca bruta,400,,1,0.014213608
-etapa2,Divisao e conquista,400,,1,0.001632337
-etapa2,Forca bruta,400,,2,0.012798897
-etapa2,Divisao e conquista,400,,2,0.001694139
-etapa2,Forca bruta,400,,3,0.011519178
-etapa2,Divisao e conquista,400,,3,0.001651876
-etapa2,Forca bruta,400,,4,0.011708864
-etapa2,Divisao e conquista,400,,4,0.001691187
-etapa2,Forca bruta,400,,5,0.011483808
-etapa2,Divisao e conquista,400,,5,0.001645319
-etapa2,Forca bruta,800,,1,0.046662325
-etapa2,Divisao e conquista,800,,1,0.003570269
-etapa2,Forca bruta,800,,2,0.046465987
-etapa2,Divisao e conquista,800,,2,0.003731487
-etapa2,Forca bruta,800,,3,0.046878500
-etapa2,Divisao e conquista,800,,3,0.003658961
-etapa2,Forca bruta,800,,4,0.046334470
-etapa2,Divisao e conquista,800,,4,0.003739336
-etapa2,Forca bruta,800,,5,0.046735730
-etapa2,Divisao e conquista,800,,5,0.003638313
-etapa2,Forca bruta,1600,,1,0.192345826
-etapa2,Divisao e conquista,1600,,1,0.007759805
-etapa2,Forca bruta,1600,,2,0.187349216
-etapa2,Divisao e conquista,1600,,2,0.007718586
-etapa2,Forca bruta,1600,,3,0.215559632
-etapa2,Divisao e conquista,1600,,3,0.007536517
-etapa2,Forca bruta,1600,,4,0.183863989
-etapa2,Divisao e conquista,1600,,4,0.008328130
-etapa2,Forca bruta,1600,,5,0.205934368
-etapa2,Divisao e conquista,1600,,5,0.008051789
-etapa2,Forca bruta,3200,,1,0.755282765
-etapa2,Divisao e conquista,3200,,1,0.016947550
-etapa2,Forca bruta,3200,,2,0.769405526
-etapa2,Divisao e conquista,3200,,2,0.016533713
-etapa2,Forca bruta,3200,,3,0.787247324
-etapa2,Divisao e conquista,3200,,3,0.020020531
-etapa2,Forca bruta,3200,,4,0.747989662
-etapa2,Divisao e conquista,3200,,4,0.016940645
-etapa2,Forca bruta,3200,,5,0.866649311
-etapa2,Divisao e conquista,3200,,5,0.016479038
-etapa2,Forca bruta,6400,,1,3.186937966
-etapa2,Divisao e conquista,6400,,1,0.037219892
-etapa2,Forca bruta,6400,,2,3.121927772
-etapa2,Divisao e conquista,6400,,2,0.037334178
-etapa2,Forca bruta,6400,,3,3.152390522
-etapa2,Divisao e conquista,6400,,3,0.042004016
-etapa2,Forca bruta,6400,,4,3.115758252
-etapa2,Divisao e conquista,6400,,4,0.044507993
-etapa2,Forca bruta,6400,,5,3.204818394
-etapa2,Divisao e conquista,6400,,5,0.036950031
-etapa2_pequeno,Forca bruta,2,,1,0.000000434
-etapa2_pequeno,Divisao e conquista,2,,1,0.000002213
-etapa2_pequeno,Forca bruta,2,,2,0.000000431
-etapa2_pequeno,Divisao e conquista,2,,2,0.000002257
-etapa2_pequeno,Forca bruta,2,,3,0.000000433
-etapa2_pequeno,Divisao e conquista,2,,3,0.000002192
-etapa2_pequeno,Forca bruta,2,,4,0.000000447
-etapa2_pequeno,Divisao e conquista,2,,4,0.000002539
-etapa2_pequeno,Forca bruta,2,,5,0.000000408
-etapa2_pequeno,Divisao e conquista,2,,5,0.000002370
-etapa2_pequeno,Forca bruta,4,,1,0.000001337
-etapa2_pequeno,Divisao e conquista,4,,1,0.000006139
-etapa2_pequeno,Forca bruta,4,,2,0.000001374
-etapa2_pequeno,Divisao e conquista,4,,2,0.000006667
-etapa2_pequeno,Forca bruta,4,,3,0.000001583
-etapa2_pequeno,Divisao e conquista,4,,3,0.000010371
-etapa2_pequeno,Forca bruta,4,,4,0.000001354
-etapa2_pequeno,Divisao e conquista,4,,4,0.000006140
-etapa2_pequeno,Forca bruta,4,,5,0.000001340
-etapa2_pequeno,Divisao e conquista,4,,5,0.000006782
-etapa2_pequeno,Forca bruta,8,,1,0.000007617
-etapa2_pequeno,Divisao e conquista,8,,1,0.000017133
-etapa2_pequeno,Forca bruta,8,,2,0.000004924
-etapa2_pequeno,Divisao e conquista,8,,2,0.000015925
-etapa2_pequeno,Forca bruta,8,,3,0.000004973
-etapa2_pequeno,Divisao e conquista,8,,3,0.000015782
-etapa2_pequeno,Forca bruta,8,,4,0.000005836
-etapa2_pequeno,Divisao e conquista,8,,4,0.000016660
-etapa2_pequeno,Forca bruta,8,,5,0.000006330
-etapa2_pequeno,Divisao e conquista,8,,5,0.000019306
-etapa2_pequeno,Forca bruta,16,,1,0.000020992
-etapa2_pequeno,Divisao e conquista,16,,1,0.000047174
-etapa2_pequeno,Forca bruta,16,,2,0.000021339
-etapa2_pequeno,Divisao e conquista,16,,2,0.000038584
-etapa2_pequeno,Forca bruta,16,,3,0.000018354
-etapa2_pequeno,Divisao e conquista,16,,3,0.000040078
-etapa2_pequeno,Forca bruta,16,,4,0.000018866
-etapa2_pequeno,Divisao e conquista,16,,4,0.000041425
-etapa2_pequeno,Forca bruta,16,,5,0.000018615
-etapa2_pequeno,Divisao e conquista,16,,5,0.000040034
-etapa2_pequeno,Forca bruta,32,,1,0.000069174
-etapa2_pequeno,Divisao e conquista,32,,1,0.000119879
-etapa2_pequeno,Forca bruta,32,,2,0.000076092
-etapa2_pequeno,Divisao e conquista,32,,2,0.000102173
-etapa2_pequeno,Forca bruta,32,,3,0.000070232
-etapa2_pequeno,Divisao e conquista,32,,3,0.000100082
-etapa2_pequeno,Forca bruta,32,,4,0.000074428
-etapa2_pequeno,Divisao e conquista,32,,4,0.000093280
-etapa2_pequeno,Forca bruta,32,,5,0.000071157
-etapa2_pequeno,Divisao e conquista,32,,5,0.000089765
-etapa2_pequeno,Forca bruta,64,,1,0.000281310
-etapa2_pequeno,Divisao e conquista,64,,1,0.000203095
-etapa2_pequeno,Forca bruta,64,,2,0.000276996
-etapa2_pequeno,Divisao e conquista,64,,2,0.000208534
-etapa2_pequeno,Forca bruta,64,,3,0.000301371
-etapa2_pequeno,Divisao e conquista,64,,3,0.000205348
-etapa2_pequeno,Forca bruta,64,,4,0.000279147
-etapa2_pequeno,Divisao e conquista,64,,4,0.000207895
-etapa2_pequeno,Forca bruta,64,,5,0.000284512
-etapa2_pequeno,Divisao e conquista,64,,5,0.000202388
-etapa2_pequeno,Forca bruta,128,,1,0.001190097
-etapa2_pequeno,Divisao e conquista,128,,1,0.000456973
-etapa2_pequeno,Forca bruta,128,,2,0.001120185
-etapa2_pequeno,Divisao e conquista,128,,2,0.000447123
-etapa2_pequeno,Forca bruta,128,,3,0.001099613
-etapa2_pequeno,Divisao e conquista,128,,3,0.000457587
-etapa2_pequeno,Forca bruta,128,,4,0.001226490
-etapa2_pequeno,Divisao e conquista,128,,4,0.000884178
-etapa2_pequeno,Forca bruta,128,,5,0.001322182
-etapa2_pequeno,Divisao e conquista,128,,5,0.000638276
-etapa2_pequeno,Forca bruta,256,,1,0.005088737
-etapa2_pequeno,Divisao e conquista,256,,1,0.000985298
-etapa2_pequeno,Forca bruta,256,,2,0.004815906
-etapa2_pequeno,Divisao e conquista,256,,2,0.001027628
-etapa2_pequeno,Forca bruta,256,,3,0.004548022
-etapa2_pequeno,Divisao e conquista,256,,3,0.001061136
-etapa2_pequeno,Forca bruta,256,,4,0.006390446
-etapa2_pequeno,Divisao e conquista,256,,4,0.001055297
-etapa2_pequeno,Forca bruta,256,,5,0.004636137
-etapa2_pequeno,Divisao e conquista,256,,5,0.000969181
-etapa2_limiar_1600,n = 1600,1600,2,1,0.008232394
-etapa2_limiar_1600,n = 1600,1600,2,2,0.008054914
-etapa2_limiar_1600,n = 1600,1600,2,3,0.008962843
-etapa2_limiar_1600,n = 1600,1600,2,4,0.008747672
-etapa2_limiar_1600,n = 1600,1600,2,5,0.008559520
-etapa2_limiar_1600,n = 1600,1600,2,6,0.008535644
-etapa2_limiar_1600,n = 1600,1600,2,7,0.008410647
-etapa2_limiar_1600,n = 1600,1600,2,8,0.008872296
-etapa2_limiar_1600,n = 1600,1600,2,9,0.008517834
-etapa2_limiar_1600,n = 1600,1600,2,10,0.008984565
-etapa2_limiar_1600,n = 1600,1600,2,11,0.008385589
-etapa2_limiar_1600,n = 1600,1600,2,12,0.009136070
-etapa2_limiar_1600,n = 1600,1600,2,13,0.008991558
-etapa2_limiar_1600,n = 1600,1600,2,14,0.008261077
-etapa2_limiar_1600,n = 1600,1600,2,15,0.008334783
-etapa2_limiar_1600,n = 1600,1600,3,1,0.007773291
-etapa2_limiar_1600,n = 1600,1600,3,2,0.007830963
-etapa2_limiar_1600,n = 1600,1600,3,3,0.007729862
-etapa2_limiar_1600,n = 1600,1600,3,4,0.010090481
-etapa2_limiar_1600,n = 1600,1600,3,5,0.010453958
-etapa2_limiar_1600,n = 1600,1600,3,6,0.008626110
-etapa2_limiar_1600,n = 1600,1600,3,7,0.008086308
-etapa2_limiar_1600,n = 1600,1600,3,8,0.007950372
-etapa2_limiar_1600,n = 1600,1600,3,9,0.007805057
-etapa2_limiar_1600,n = 1600,1600,3,10,0.008311814
-etapa2_limiar_1600,n = 1600,1600,3,11,0.015795879
-etapa2_limiar_1600,n = 1600,1600,3,12,0.014134158
-etapa2_limiar_1600,n = 1600,1600,3,13,0.007929653
-etapa2_limiar_1600,n = 1600,1600,3,14,0.008206053
-etapa2_limiar_1600,n = 1600,1600,3,15,0.008030859
-etapa2_limiar_1600,n = 1600,1600,4,1,0.010363448
-etapa2_limiar_1600,n = 1600,1600,4,2,0.007949784
-etapa2_limiar_1600,n = 1600,1600,4,3,0.008681466
-etapa2_limiar_1600,n = 1600,1600,4,4,0.016606951
-etapa2_limiar_1600,n = 1600,1600,4,5,0.012662155
-etapa2_limiar_1600,n = 1600,1600,4,6,0.012944693
-etapa2_limiar_1600,n = 1600,1600,4,7,0.008904628
-etapa2_limiar_1600,n = 1600,1600,4,8,0.013500607
-etapa2_limiar_1600,n = 1600,1600,4,9,0.013452127
-etapa2_limiar_1600,n = 1600,1600,4,10,0.013337497
-etapa2_limiar_1600,n = 1600,1600,4,11,0.012855742
-etapa2_limiar_1600,n = 1600,1600,4,12,0.013156386
-etapa2_limiar_1600,n = 1600,1600,4,13,0.012790728
-etapa2_limiar_1600,n = 1600,1600,4,14,0.007541862
-etapa2_limiar_1600,n = 1600,1600,4,15,0.007682311
-etapa2_limiar_1600,n = 1600,1600,6,1,0.007446217
-etapa2_limiar_1600,n = 1600,1600,6,2,0.007531481
-etapa2_limiar_1600,n = 1600,1600,6,3,0.007701117
-etapa2_limiar_1600,n = 1600,1600,6,4,0.007527009
-etapa2_limiar_1600,n = 1600,1600,6,5,0.007558499
-etapa2_limiar_1600,n = 1600,1600,6,6,0.007576818
-etapa2_limiar_1600,n = 1600,1600,6,7,0.007896432
-etapa2_limiar_1600,n = 1600,1600,6,8,0.007639073
-etapa2_limiar_1600,n = 1600,1600,6,9,0.007544674
-etapa2_limiar_1600,n = 1600,1600,6,10,0.007492337
-etapa2_limiar_1600,n = 1600,1600,6,11,0.007959096
-etapa2_limiar_1600,n = 1600,1600,6,12,0.007627255
-etapa2_limiar_1600,n = 1600,1600,6,13,0.007440272
-etapa2_limiar_1600,n = 1600,1600,6,14,0.007319663
-etapa2_limiar_1600,n = 1600,1600,6,15,0.009948750
-etapa2_limiar_1600,n = 1600,1600,8,1,0.007949794
-etapa2_limiar_1600,n = 1600,1600,8,2,0.007878413
-etapa2_limiar_1600,n = 1600,1600,8,3,0.007998616
-etapa2_limiar_1600,n = 1600,1600,8,4,0.007506060
-etapa2_limiar_1600,n = 1600,1600,8,5,0.007472026
-etapa2_limiar_1600,n = 1600,1600,8,6,0.007499847
-etapa2_limiar_1600,n = 1600,1600,8,7,0.007929949
-etapa2_limiar_1600,n = 1600,1600,8,8,0.007802715
-etapa2_limiar_1600,n = 1600,1600,8,9,0.007726457
-etapa2_limiar_1600,n = 1600,1600,8,10,0.007933351
-etapa2_limiar_1600,n = 1600,1600,8,11,0.008333634
-etapa2_limiar_1600,n = 1600,1600,8,12,0.007883667
-etapa2_limiar_1600,n = 1600,1600,8,13,0.009510130
-etapa2_limiar_1600,n = 1600,1600,8,14,0.007862946
-etapa2_limiar_1600,n = 1600,1600,8,15,0.007896327
-etapa2_limiar_1600,n = 1600,1600,12,1,0.007904794
-etapa2_limiar_1600,n = 1600,1600,12,2,0.007940263
-etapa2_limiar_1600,n = 1600,1600,12,3,0.007830741
-etapa2_limiar_1600,n = 1600,1600,12,4,0.008043471
-etapa2_limiar_1600,n = 1600,1600,12,5,0.008226105
-etapa2_limiar_1600,n = 1600,1600,12,6,0.007969970
-etapa2_limiar_1600,n = 1600,1600,12,7,0.008672167
-etapa2_limiar_1600,n = 1600,1600,12,8,0.007894722
-etapa2_limiar_1600,n = 1600,1600,12,9,0.007750041
-etapa2_limiar_1600,n = 1600,1600,12,10,0.007725582
-etapa2_limiar_1600,n = 1600,1600,12,11,0.008521729
-etapa2_limiar_1600,n = 1600,1600,12,12,0.008218403
-etapa2_limiar_1600,n = 1600,1600,12,13,0.007821779
-etapa2_limiar_1600,n = 1600,1600,12,14,0.007999945
-etapa2_limiar_1600,n = 1600,1600,12,15,0.007834632
-etapa2_limiar_1600,n = 1600,1600,16,1,0.008256639
-etapa2_limiar_1600,n = 1600,1600,16,2,0.008226432
-etapa2_limiar_1600,n = 1600,1600,16,3,0.008167907
-etapa2_limiar_1600,n = 1600,1600,16,4,0.008661252
-etapa2_limiar_1600,n = 1600,1600,16,5,0.008058490
-etapa2_limiar_1600,n = 1600,1600,16,6,0.007830867
-etapa2_limiar_1600,n = 1600,1600,16,7,0.009083157
-etapa2_limiar_1600,n = 1600,1600,16,8,0.007900374
-etapa2_limiar_1600,n = 1600,1600,16,9,0.007777787
-etapa2_limiar_1600,n = 1600,1600,16,10,0.008123536
-etapa2_limiar_1600,n = 1600,1600,16,11,0.008229426
-etapa2_limiar_1600,n = 1600,1600,16,12,0.008327220
-etapa2_limiar_1600,n = 1600,1600,16,13,0.008350509
-etapa2_limiar_1600,n = 1600,1600,16,14,0.008072094
-etapa2_limiar_1600,n = 1600,1600,16,15,0.007769439
-etapa2_limiar_1600,n = 1600,1600,24,1,0.008147816
-etapa2_limiar_1600,n = 1600,1600,24,2,0.008220207
-etapa2_limiar_1600,n = 1600,1600,24,3,0.008050826
-etapa2_limiar_1600,n = 1600,1600,24,4,0.008601234
-etapa2_limiar_1600,n = 1600,1600,24,5,0.008234617
-etapa2_limiar_1600,n = 1600,1600,24,6,0.007945233
-etapa2_limiar_1600,n = 1600,1600,24,7,0.007817473
-etapa2_limiar_1600,n = 1600,1600,24,8,0.007923154
-etapa2_limiar_1600,n = 1600,1600,24,9,0.008509354
-etapa2_limiar_1600,n = 1600,1600,24,10,0.007955629
-etapa2_limiar_1600,n = 1600,1600,24,11,0.007927432
-etapa2_limiar_1600,n = 1600,1600,24,12,0.007946396
-etapa2_limiar_1600,n = 1600,1600,24,13,0.007874167
-etapa2_limiar_1600,n = 1600,1600,24,14,0.008074942
-etapa2_limiar_1600,n = 1600,1600,24,15,0.007882871
-etapa2_limiar_1600,n = 1600,1600,32,1,0.008957655
-etapa2_limiar_1600,n = 1600,1600,32,2,0.009695090
-etapa2_limiar_1600,n = 1600,1600,32,3,0.009023316
-etapa2_limiar_1600,n = 1600,1600,32,4,0.008980227
-etapa2_limiar_1600,n = 1600,1600,32,5,0.009146137
-etapa2_limiar_1600,n = 1600,1600,32,6,0.009228725
-etapa2_limiar_1600,n = 1600,1600,32,7,0.008873556
-etapa2_limiar_1600,n = 1600,1600,32,8,0.008887610
-etapa2_limiar_1600,n = 1600,1600,32,9,0.009361728
-etapa2_limiar_1600,n = 1600,1600,32,10,0.010609524
-etapa2_limiar_1600,n = 1600,1600,32,11,0.011059672
-etapa2_limiar_1600,n = 1600,1600,32,12,0.010875384
-etapa2_limiar_1600,n = 1600,1600,32,13,0.009791694
-etapa2_limiar_1600,n = 1600,1600,32,14,0.008993477
-etapa2_limiar_1600,n = 1600,1600,32,15,0.012505443
-etapa2_limiar_1600,n = 1600,1600,48,1,0.009151907
-etapa2_limiar_1600,n = 1600,1600,48,2,0.009256043
-etapa2_limiar_1600,n = 1600,1600,48,3,0.009061216
-etapa2_limiar_1600,n = 1600,1600,48,4,0.011329540
-etapa2_limiar_1600,n = 1600,1600,48,5,0.010369909
-etapa2_limiar_1600,n = 1600,1600,48,6,0.011140504
-etapa2_limiar_1600,n = 1600,1600,48,7,0.009216991
-etapa2_limiar_1600,n = 1600,1600,48,8,0.009032050
-etapa2_limiar_1600,n = 1600,1600,48,9,0.008987846
-etapa2_limiar_1600,n = 1600,1600,48,10,0.009141558
-etapa2_limiar_1600,n = 1600,1600,48,11,0.008980178
-etapa2_limiar_1600,n = 1600,1600,48,12,0.008862565
-etapa2_limiar_1600,n = 1600,1600,48,13,0.009180876
-etapa2_limiar_1600,n = 1600,1600,48,14,0.009188278
-etapa2_limiar_1600,n = 1600,1600,48,15,0.009306434
-etapa2_limiar_1600,n = 1600,1600,64,1,0.011433276
-etapa2_limiar_1600,n = 1600,1600,64,2,0.011736504
-etapa2_limiar_1600,n = 1600,1600,64,3,0.016613081
-etapa2_limiar_1600,n = 1600,1600,64,4,0.012289900
-etapa2_limiar_1600,n = 1600,1600,64,5,0.011261567
-etapa2_limiar_1600,n = 1600,1600,64,6,0.011361812
-etapa2_limiar_1600,n = 1600,1600,64,7,0.011358886
-etapa2_limiar_1600,n = 1600,1600,64,8,0.015708807
-etapa2_limiar_1600,n = 1600,1600,64,9,0.011491940
-etapa2_limiar_1600,n = 1600,1600,64,10,0.011359814
-etapa2_limiar_1600,n = 1600,1600,64,11,0.011419567
-etapa2_limiar_1600,n = 1600,1600,64,12,0.015533939
-etapa2_limiar_1600,n = 1600,1600,64,13,0.011538320
-etapa2_limiar_1600,n = 1600,1600,64,14,0.011708141
-etapa2_limiar_1600,n = 1600,1600,64,15,0.013390957
-etapa2_limiar_1600,n = 1600,1600,128,1,0.017606274
-etapa2_limiar_1600,n = 1600,1600,128,2,0.017149818
-etapa2_limiar_1600,n = 1600,1600,128,3,0.016831083
-etapa2_limiar_1600,n = 1600,1600,128,4,0.016691159
-etapa2_limiar_1600,n = 1600,1600,128,5,0.017279480
-etapa2_limiar_1600,n = 1600,1600,128,6,0.016753141
-etapa2_limiar_1600,n = 1600,1600,128,7,0.016808746
-etapa2_limiar_1600,n = 1600,1600,128,8,0.016541480
-etapa2_limiar_1600,n = 1600,1600,128,9,0.016802611
-etapa2_limiar_1600,n = 1600,1600,128,10,0.017169952
-etapa2_limiar_1600,n = 1600,1600,128,11,0.017094947
-etapa2_limiar_1600,n = 1600,1600,128,12,0.016853645
-etapa2_limiar_1600,n = 1600,1600,128,13,0.016854444
-etapa2_limiar_1600,n = 1600,1600,128,14,0.016918533
-etapa2_limiar_1600,n = 1600,1600,128,15,0.016926200
-etapa2_limiar_6400,n = 6400,6400,2,1,0.039527683
-etapa2_limiar_6400,n = 6400,6400,2,2,0.038104844
-etapa2_limiar_6400,n = 6400,6400,2,3,0.037038071
-etapa2_limiar_6400,n = 6400,6400,2,4,0.038816551
-etapa2_limiar_6400,n = 6400,6400,2,5,0.037921708
-etapa2_limiar_6400,n = 6400,6400,2,6,0.038866029
-etapa2_limiar_6400,n = 6400,6400,2,7,0.040607265
-etapa2_limiar_6400,n = 6400,6400,2,8,0.039204506
-etapa2_limiar_6400,n = 6400,6400,2,9,0.039193065
-etapa2_limiar_6400,n = 6400,6400,2,10,0.037410134
-etapa2_limiar_6400,n = 6400,6400,2,11,0.039535367
-etapa2_limiar_6400,n = 6400,6400,2,12,0.038229001
-etapa2_limiar_6400,n = 6400,6400,2,13,0.038648225
-etapa2_limiar_6400,n = 6400,6400,2,14,0.058860775
-etapa2_limiar_6400,n = 6400,6400,2,15,0.055697393
-etapa2_limiar_6400,n = 6400,6400,3,1,0.037394724
-etapa2_limiar_6400,n = 6400,6400,3,2,0.036664040
-etapa2_limiar_6400,n = 6400,6400,3,3,0.039544011
-etapa2_limiar_6400,n = 6400,6400,3,4,0.044510638
-etapa2_limiar_6400,n = 6400,6400,3,5,0.039838271
-etapa2_limiar_6400,n = 6400,6400,3,6,0.039211518
-etapa2_limiar_6400,n = 6400,6400,3,7,0.037693293
-etapa2_limiar_6400,n = 6400,6400,3,8,0.036827396
-etapa2_limiar_6400,n = 6400,6400,3,9,0.037365359
-etapa2_limiar_6400,n = 6400,6400,3,10,0.036445513
-etapa2_limiar_6400,n = 6400,6400,3,11,0.037429198
-etapa2_limiar_6400,n = 6400,6400,3,12,0.039899932
-etapa2_limiar_6400,n = 6400,6400,3,13,0.035864530
-etapa2_limiar_6400,n = 6400,6400,3,14,0.035567937
-etapa2_limiar_6400,n = 6400,6400,3,15,0.039247354
-etapa2_limiar_6400,n = 6400,6400,4,1,0.039859865
-etapa2_limiar_6400,n = 6400,6400,4,2,0.037782778
-etapa2_limiar_6400,n = 6400,6400,4,3,0.035924636
-etapa2_limiar_6400,n = 6400,6400,4,4,0.035577639
-etapa2_limiar_6400,n = 6400,6400,4,5,0.036091522
-etapa2_limiar_6400,n = 6400,6400,4,6,0.035795336
-etapa2_limiar_6400,n = 6400,6400,4,7,0.035525013
-etapa2_limiar_6400,n = 6400,6400,4,8,0.036748070
-etapa2_limiar_6400,n = 6400,6400,4,9,0.035677983
-etapa2_limiar_6400,n = 6400,6400,4,10,0.035915710
-etapa2_limiar_6400,n = 6400,6400,4,11,0.036218077
-etapa2_limiar_6400,n = 6400,6400,4,12,0.036559526
-etapa2_limiar_6400,n = 6400,6400,4,13,0.036592471
-etapa2_limiar_6400,n = 6400,6400,4,14,0.040840516
-etapa2_limiar_6400,n = 6400,6400,4,15,0.036903551
-etapa2_limiar_6400,n = 6400,6400,6,1,0.038163392
-etapa2_limiar_6400,n = 6400,6400,6,2,0.036333316
-etapa2_limiar_6400,n = 6400,6400,6,3,0.036907947
-etapa2_limiar_6400,n = 6400,6400,6,4,0.042483601
-etapa2_limiar_6400,n = 6400,6400,6,5,0.038385266
-etapa2_limiar_6400,n = 6400,6400,6,6,0.037530087
-etapa2_limiar_6400,n = 6400,6400,6,7,0.038084576
-etapa2_limiar_6400,n = 6400,6400,6,8,0.038615360
-etapa2_limiar_6400,n = 6400,6400,6,9,0.038107909
-etapa2_limiar_6400,n = 6400,6400,6,10,0.038199997
-etapa2_limiar_6400,n = 6400,6400,6,11,0.050179134
-etapa2_limiar_6400,n = 6400,6400,6,12,0.038660200
-etapa2_limiar_6400,n = 6400,6400,6,13,0.065068561
-etapa2_limiar_6400,n = 6400,6400,6,14,0.037450014
-etapa2_limiar_6400,n = 6400,6400,6,15,0.059291057
-etapa2_limiar_6400,n = 6400,6400,8,1,0.068598245
-etapa2_limiar_6400,n = 6400,6400,8,2,0.047929957
-etapa2_limiar_6400,n = 6400,6400,8,3,0.036183795
-etapa2_limiar_6400,n = 6400,6400,8,4,0.035004483
-etapa2_limiar_6400,n = 6400,6400,8,5,0.036720064
-etapa2_limiar_6400,n = 6400,6400,8,6,0.035416598
-etapa2_limiar_6400,n = 6400,6400,8,7,0.036544107
-etapa2_limiar_6400,n = 6400,6400,8,8,0.035638861
-etapa2_limiar_6400,n = 6400,6400,8,9,0.035031860
-etapa2_limiar_6400,n = 6400,6400,8,10,0.035421768
-etapa2_limiar_6400,n = 6400,6400,8,11,0.035408252
-etapa2_limiar_6400,n = 6400,6400,8,12,0.034806795
-etapa2_limiar_6400,n = 6400,6400,8,13,0.035666700
-etapa2_limiar_6400,n = 6400,6400,8,14,0.035377714
-etapa2_limiar_6400,n = 6400,6400,8,15,0.036290116
-etapa2_limiar_6400,n = 6400,6400,12,1,0.035828474
-etapa2_limiar_6400,n = 6400,6400,12,2,0.036484257
-etapa2_limiar_6400,n = 6400,6400,12,3,0.037110221
-etapa2_limiar_6400,n = 6400,6400,12,4,0.036406740
-etapa2_limiar_6400,n = 6400,6400,12,5,0.035462758
-etapa2_limiar_6400,n = 6400,6400,12,6,0.036228130
-etapa2_limiar_6400,n = 6400,6400,12,7,0.035621888
-etapa2_limiar_6400,n = 6400,6400,12,8,0.035200900
-etapa2_limiar_6400,n = 6400,6400,12,9,0.036950881
-etapa2_limiar_6400,n = 6400,6400,12,10,0.035639796
-etapa2_limiar_6400,n = 6400,6400,12,11,0.035622150
-etapa2_limiar_6400,n = 6400,6400,12,12,0.036087823
-etapa2_limiar_6400,n = 6400,6400,12,13,0.042624615
-etapa2_limiar_6400,n = 6400,6400,12,14,0.038158936
-etapa2_limiar_6400,n = 6400,6400,12,15,0.038367281
-etapa2_limiar_6400,n = 6400,6400,16,1,0.039089047
-etapa2_limiar_6400,n = 6400,6400,16,2,0.037615330
-etapa2_limiar_6400,n = 6400,6400,16,3,0.037936141
-etapa2_limiar_6400,n = 6400,6400,16,4,0.036738595
-etapa2_limiar_6400,n = 6400,6400,16,5,0.040274806
-etapa2_limiar_6400,n = 6400,6400,16,6,0.038434189
-etapa2_limiar_6400,n = 6400,6400,16,7,0.047255544
-etapa2_limiar_6400,n = 6400,6400,16,8,0.037404331
-etapa2_limiar_6400,n = 6400,6400,16,9,0.037820392
-etapa2_limiar_6400,n = 6400,6400,16,10,0.038070776
-etapa2_limiar_6400,n = 6400,6400,16,11,0.039751640
-etapa2_limiar_6400,n = 6400,6400,16,12,0.042255395
-etapa2_limiar_6400,n = 6400,6400,16,13,0.037053315
-etapa2_limiar_6400,n = 6400,6400,16,14,0.039257686
-etapa2_limiar_6400,n = 6400,6400,16,15,0.053808956
-etapa2_limiar_6400,n = 6400,6400,24,1,0.045323539
-etapa2_limiar_6400,n = 6400,6400,24,2,0.037085974
-etapa2_limiar_6400,n = 6400,6400,24,3,0.036439405
-etapa2_limiar_6400,n = 6400,6400,24,4,0.039139700
-etapa2_limiar_6400,n = 6400,6400,24,5,0.036152972
-etapa2_limiar_6400,n = 6400,6400,24,6,0.037483897
-etapa2_limiar_6400,n = 6400,6400,24,7,0.036672652
-etapa2_limiar_6400,n = 6400,6400,24,8,0.035695859
-etapa2_limiar_6400,n = 6400,6400,24,9,0.037473493
-etapa2_limiar_6400,n = 6400,6400,24,10,0.038616164
-etapa2_limiar_6400,n = 6400,6400,24,11,0.045040894
-etapa2_limiar_6400,n = 6400,6400,24,12,0.041295370
-etapa2_limiar_6400,n = 6400,6400,24,13,0.050845180
-etapa2_limiar_6400,n = 6400,6400,24,14,0.040831116
-etapa2_limiar_6400,n = 6400,6400,24,15,0.037157765
-etapa2_limiar_6400,n = 6400,6400,32,1,0.042462059
-etapa2_limiar_6400,n = 6400,6400,32,2,0.043351273
-etapa2_limiar_6400,n = 6400,6400,32,3,0.043403998
-etapa2_limiar_6400,n = 6400,6400,32,4,0.043507526
-etapa2_limiar_6400,n = 6400,6400,32,5,0.042649507
-etapa2_limiar_6400,n = 6400,6400,32,6,0.042665731
-etapa2_limiar_6400,n = 6400,6400,32,7,0.042408063
-etapa2_limiar_6400,n = 6400,6400,32,8,0.041949188
-etapa2_limiar_6400,n = 6400,6400,32,9,0.043303451
-etapa2_limiar_6400,n = 6400,6400,32,10,0.043279859
-etapa2_limiar_6400,n = 6400,6400,32,11,0.043381950
-etapa2_limiar_6400,n = 6400,6400,32,12,0.043087015
-etapa2_limiar_6400,n = 6400,6400,32,13,0.059571156
-etapa2_limiar_6400,n = 6400,6400,32,14,0.068118052
-etapa2_limiar_6400,n = 6400,6400,32,15,0.063379835
-etapa2_limiar_6400,n = 6400,6400,48,1,0.042513518
-etapa2_limiar_6400,n = 6400,6400,48,2,0.042421329
-etapa2_limiar_6400,n = 6400,6400,48,3,0.040544498
-etapa2_limiar_6400,n = 6400,6400,48,4,0.040970240
-etapa2_limiar_6400,n = 6400,6400,48,5,0.047878874
-etapa2_limiar_6400,n = 6400,6400,48,6,0.042914310
-etapa2_limiar_6400,n = 6400,6400,48,7,0.044535999
-etapa2_limiar_6400,n = 6400,6400,48,8,0.053605549
-etapa2_limiar_6400,n = 6400,6400,48,9,0.042814026
-etapa2_limiar_6400,n = 6400,6400,48,10,0.042481170
-etapa2_limiar_6400,n = 6400,6400,48,11,0.042258962
-etapa2_limiar_6400,n = 6400,6400,48,12,0.041947320
-etapa2_limiar_6400,n = 6400,6400,48,13,0.040951668
-etapa2_limiar_6400,n = 6400,6400,48,14,0.040979260
-etapa2_limiar_6400,n = 6400,6400,48,15,0.040323346
-etapa2_limiar_6400,n = 6400,6400,64,1,0.050140902
-etapa2_limiar_6400,n = 6400,6400,64,2,0.051323992
-etapa2_limiar_6400,n = 6400,6400,64,3,0.049813895
-etapa2_limiar_6400,n = 6400,6400,64,4,0.050366175
-etapa2_limiar_6400,n = 6400,6400,64,5,0.050659499
-etapa2_limiar_6400,n = 6400,6400,64,6,0.051163937
-etapa2_limiar_6400,n = 6400,6400,64,7,0.050521491
-etapa2_limiar_6400,n = 6400,6400,64,8,0.069521876
-etapa2_limiar_6400,n = 6400,6400,64,9,0.081397189
-etapa2_limiar_6400,n = 6400,6400,64,10,0.081479695
-etapa2_limiar_6400,n = 6400,6400,64,11,0.053982334
-etapa2_limiar_6400,n = 6400,6400,64,12,0.050070874
-etapa2_limiar_6400,n = 6400,6400,64,13,0.050520075
-etapa2_limiar_6400,n = 6400,6400,64,14,0.050518991
-etapa2_limiar_6400,n = 6400,6400,64,15,0.050570610
-etapa2_limiar_6400,n = 6400,6400,128,1,0.071008243
-etapa2_limiar_6400,n = 6400,6400,128,2,0.071196180
-etapa2_limiar_6400,n = 6400,6400,128,3,0.071023443
-etapa2_limiar_6400,n = 6400,6400,128,4,0.076886648
-etapa2_limiar_6400,n = 6400,6400,128,5,0.071929842
-etapa2_limiar_6400,n = 6400,6400,128,6,0.072442543
-etapa2_limiar_6400,n = 6400,6400,128,7,0.078219502
-etapa2_limiar_6400,n = 6400,6400,128,8,0.071210716
-etapa2_limiar_6400,n = 6400,6400,128,9,0.071484733
-etapa2_limiar_6400,n = 6400,6400,128,10,0.072614191
-etapa2_limiar_6400,n = 6400,6400,128,11,0.071327369
-etapa2_limiar_6400,n = 6400,6400,128,12,0.071111234
-etapa2_limiar_6400,n = 6400,6400,128,13,0.070654409
-etapa2_limiar_6400,n = 6400,6400,128,14,0.070001330
-etapa2_limiar_6400,n = 6400,6400,128,15,0.070419428
+etapa1,Força bruta,100,,1,0.000310373
+etapa1,Divisão e conquista,100,,1,0.000174583
+etapa1,Kadane O(n),100,,1,0.000028654
+etapa1,Força bruta,100,,2,0.000325279
+etapa1,Divisão e conquista,100,,2,0.000152069
+etapa1,Kadane O(n),100,,2,0.000039274
+etapa1,Força bruta,100,,3,0.000300133
+etapa1,Divisão e conquista,100,,3,0.000106261
+etapa1,Kadane O(n),100,,3,0.000020650
+etapa1,Força bruta,100,,4,0.000218790
+etapa1,Divisão e conquista,100,,4,0.000111508
+etapa1,Kadane O(n),100,,4,0.000019054
+etapa1,Força bruta,100,,5,0.000261537
+etapa1,Divisão e conquista,100,,5,0.000110146
+etapa1,Kadane O(n),100,,5,0.000018020
+etapa1,Força bruta,200,,1,0.000875751
+etapa1,Divisão e conquista,200,,1,0.000207428
+etapa1,Kadane O(n),200,,1,0.000032196
+etapa1,Força bruta,200,,2,0.000834042
+etapa1,Divisão e conquista,200,,2,0.000249092
+etapa1,Kadane O(n),200,,2,0.000032029
+etapa1,Força bruta,200,,3,0.000866237
+etapa1,Divisão e conquista,200,,3,0.000209735
+etapa1,Kadane O(n),200,,3,0.000032138
+etapa1,Força bruta,200,,4,0.000841128
+etapa1,Divisão e conquista,200,,4,0.000235042
+etapa1,Kadane O(n),200,,4,0.000031535
+etapa1,Força bruta,200,,5,0.000874013
+etapa1,Divisão e conquista,200,,5,0.000207148
+etapa1,Kadane O(n),200,,5,0.000031667
+etapa1,Força bruta,400,,1,0.003512953
+etapa1,Divisão e conquista,400,,1,0.000543053
+etapa1,Kadane O(n),400,,1,0.000060071
+etapa1,Força bruta,400,,2,0.003523486
+etapa1,Divisão e conquista,400,,2,0.000513415
+etapa1,Kadane O(n),400,,2,0.000058805
+etapa1,Força bruta,400,,3,0.003502117
+etapa1,Divisão e conquista,400,,3,0.000481675
+etapa1,Kadane O(n),400,,3,0.000081197
+etapa1,Força bruta,400,,4,0.004066500
+etapa1,Divisão e conquista,400,,4,0.000466178
+etapa1,Kadane O(n),400,,4,0.000058544
+etapa1,Força bruta,400,,5,0.007239791
+etapa1,Divisão e conquista,400,,5,0.000480903
+etapa1,Kadane O(n),400,,5,0.000065355
+etapa1,Força bruta,800,,1,0.015412244
+etapa1,Divisão e conquista,800,,1,0.001004073
+etapa1,Kadane O(n),800,,1,0.000117955
+etapa1,Força bruta,800,,2,0.015849141
+etapa1,Divisão e conquista,800,,2,0.001014236
+etapa1,Kadane O(n),800,,2,0.000121354
+etapa1,Força bruta,800,,3,0.022312497
+etapa1,Divisão e conquista,800,,3,0.001070388
+etapa1,Kadane O(n),800,,3,0.000152733
+etapa1,Força bruta,800,,4,0.014875075
+etapa1,Divisão e conquista,800,,4,0.000966639
+etapa1,Kadane O(n),800,,4,0.000108978
+etapa1,Força bruta,800,,5,0.015248744
+etapa1,Divisão e conquista,800,,5,0.001006695
+etapa1,Kadane O(n),800,,5,0.000109228
+etapa1,Força bruta,1600,,1,0.063272419
+etapa1,Divisão e conquista,1600,,1,0.002196999
+etapa1,Kadane O(n),1600,,1,0.000321604
+etapa1,Força bruta,1600,,2,0.103334418
+etapa1,Divisão e conquista,1600,,2,0.003414200
+etapa1,Kadane O(n),1600,,2,0.000352554
+etapa1,Força bruta,1600,,3,0.066714235
+etapa1,Divisão e conquista,1600,,3,0.002232751
+etapa1,Kadane O(n),1600,,3,0.000218850
+etapa1,Força bruta,1600,,4,0.061628955
+etapa1,Divisão e conquista,1600,,4,0.002298124
+etapa1,Kadane O(n),1600,,4,0.000217131
+etapa1,Força bruta,1600,,5,0.062815629
+etapa1,Divisão e conquista,1600,,5,0.002137580
+etapa1,Kadane O(n),1600,,5,0.000214029
+etapa1,Força bruta,3200,,1,0.271888766
+etapa1,Divisão e conquista,3200,,1,0.004413034
+etapa1,Kadane O(n),3200,,1,0.000498113
+etapa1,Força bruta,3200,,2,0.265317472
+etapa1,Divisão e conquista,3200,,2,0.004279138
+etapa1,Kadane O(n),3200,,2,0.000421679
+etapa1,Força bruta,3200,,3,0.257625013
+etapa1,Divisão e conquista,3200,,3,0.010109076
+etapa1,Kadane O(n),3200,,3,0.000457980
+etapa1,Força bruta,3200,,4,0.304609442
+etapa1,Divisão e conquista,3200,,4,0.011097309
+etapa1,Kadane O(n),3200,,4,0.000416785
+etapa1,Força bruta,3200,,5,0.262088955
+etapa1,Divisão e conquista,3200,,5,0.004391544
+etapa1,Kadane O(n),3200,,5,0.000520636
+etapa1,Força bruta,6400,,1,1.071115871
+etapa1,Divisão e conquista,6400,,1,0.008597983
+etapa1,Kadane O(n),6400,,1,0.000962889
+etapa1,Força bruta,6400,,2,1.150224996
+etapa1,Divisão e conquista,6400,,2,0.008780054
+etapa1,Kadane O(n),6400,,2,0.000852099
+etapa1,Força bruta,6400,,3,1.171916601
+etapa1,Divisão e conquista,6400,,3,0.008911653
+etapa1,Kadane O(n),6400,,3,0.000840625
+etapa1,Força bruta,6400,,4,1.062650131
+etapa1,Divisão e conquista,6400,,4,0.008540147
+etapa1,Kadane O(n),6400,,4,0.000993871
+etapa1,Força bruta,6400,,5,1.102863146
+etapa1,Divisão e conquista,6400,,5,0.008658990
+etapa1,Kadane O(n),6400,,5,0.000877322
+etapa1_pequeno,Força bruta,2,,1,0.000000379
+etapa1_pequeno,Divisão e conquista,2,,1,0.000000669
+etapa1_pequeno,Kadane O(n),2,,1,0.000000274
+etapa1_pequeno,Força bruta,2,,2,0.000000410
+etapa1_pequeno,Divisão e conquista,2,,2,0.000000697
+etapa1_pequeno,Kadane O(n),2,,2,0.000000273
+etapa1_pequeno,Força bruta,2,,3,0.000000392
+etapa1_pequeno,Divisão e conquista,2,,3,0.000000785
+etapa1_pequeno,Kadane O(n),2,,3,0.000000286
+etapa1_pequeno,Força bruta,2,,4,0.000000414
+etapa1_pequeno,Divisão e conquista,2,,4,0.000000751
+etapa1_pequeno,Kadane O(n),2,,4,0.000000291
+etapa1_pequeno,Força bruta,2,,5,0.000000659
+etapa1_pequeno,Divisão e conquista,2,,5,0.000000674
+etapa1_pequeno,Kadane O(n),2,,5,0.000000352
+etapa1_pequeno,Força bruta,4,,1,0.000000769
+etapa1_pequeno,Divisão e conquista,4,,1,0.000002441
+etapa1_pequeno,Kadane O(n),4,,1,0.000000571
+etapa1_pequeno,Força bruta,4,,2,0.000000994
+etapa1_pequeno,Divisão e conquista,4,,2,0.000002136
+etapa1_pequeno,Kadane O(n),4,,2,0.000000475
+etapa1_pequeno,Força bruta,4,,3,0.000000807
+etapa1_pequeno,Divisão e conquista,4,,3,0.000001925
+etapa1_pequeno,Kadane O(n),4,,3,0.000000484
+etapa1_pequeno,Força bruta,4,,4,0.000000769
+etapa1_pequeno,Divisão e conquista,4,,4,0.000001889
+etapa1_pequeno,Kadane O(n),4,,4,0.000000485
+etapa1_pequeno,Força bruta,4,,5,0.000000741
+etapa1_pequeno,Divisão e conquista,4,,5,0.000001868
+etapa1_pequeno,Kadane O(n),4,,5,0.000000472
+etapa1_pequeno,Força bruta,8,,1,0.000002070
+etapa1_pequeno,Divisão e conquista,8,,1,0.000004482
+etapa1_pequeno,Kadane O(n),8,,1,0.000001010
+etapa1_pequeno,Força bruta,8,,2,0.000002229
+etapa1_pequeno,Divisão e conquista,8,,2,0.000004705
+etapa1_pequeno,Kadane O(n),8,,2,0.000000999
+etapa1_pequeno,Força bruta,8,,3,0.000002078
+etapa1_pequeno,Divisão e conquista,8,,3,0.000004602
+etapa1_pequeno,Kadane O(n),8,,3,0.000000914
+etapa1_pequeno,Força bruta,8,,4,0.000002021
+etapa1_pequeno,Divisão e conquista,8,,4,0.000004606
+etapa1_pequeno,Kadane O(n),8,,4,0.000000923
+etapa1_pequeno,Força bruta,8,,5,0.000001917
+etapa1_pequeno,Divisão e conquista,8,,5,0.000004399
+etapa1_pequeno,Kadane O(n),8,,5,0.000000947
+etapa1_pequeno,Força bruta,16,,1,0.000006740
+etapa1_pequeno,Divisão e conquista,16,,1,0.000010546
+etapa1_pequeno,Kadane O(n),16,,1,0.000001880
+etapa1_pequeno,Força bruta,16,,2,0.000008600
+etapa1_pequeno,Divisão e conquista,16,,2,0.000010114
+etapa1_pequeno,Kadane O(n),16,,2,0.000001974
+etapa1_pequeno,Força bruta,16,,3,0.000006327
+etapa1_pequeno,Divisão e conquista,16,,3,0.000010120
+etapa1_pequeno,Kadane O(n),16,,3,0.000003127
+etapa1_pequeno,Força bruta,16,,4,0.000006630
+etapa1_pequeno,Divisão e conquista,16,,4,0.000010328
+etapa1_pequeno,Kadane O(n),16,,4,0.000001911
+etapa1_pequeno,Força bruta,16,,5,0.000006465
+etapa1_pequeno,Divisão e conquista,16,,5,0.000009989
+etapa1_pequeno,Kadane O(n),16,,5,0.000001899
+etapa1_pequeno,Força bruta,32,,1,0.000022966
+etapa1_pequeno,Divisão e conquista,32,,1,0.000022517
+etapa1_pequeno,Kadane O(n),32,,1,0.000003844
+etapa1_pequeno,Força bruta,32,,2,0.000022849
+etapa1_pequeno,Divisão e conquista,32,,2,0.000022652
+etapa1_pequeno,Kadane O(n),32,,2,0.000003766
+etapa1_pequeno,Força bruta,32,,3,0.000023642
+etapa1_pequeno,Divisão e conquista,32,,3,0.000022845
+etapa1_pequeno,Kadane O(n),32,,3,0.000004229
+etapa1_pequeno,Força bruta,32,,4,0.000023561
+etapa1_pequeno,Divisão e conquista,32,,4,0.000022690
+etapa1_pequeno,Kadane O(n),32,,4,0.000003729
+etapa1_pequeno,Força bruta,32,,5,0.000022600
+etapa1_pequeno,Divisão e conquista,32,,5,0.000022606
+etapa1_pequeno,Kadane O(n),32,,5,0.000003902
+etapa1_pequeno,Força bruta,64,,1,0.000089195
+etapa1_pequeno,Divisão e conquista,64,,1,0.000050043
+etapa1_pequeno,Kadane O(n),64,,1,0.000008335
+etapa1_pequeno,Força bruta,64,,2,0.000083623
+etapa1_pequeno,Divisão e conquista,64,,2,0.000048451
+etapa1_pequeno,Kadane O(n),64,,2,0.000007430
+etapa1_pequeno,Força bruta,64,,3,0.000085661
+etapa1_pequeno,Divisão e conquista,64,,3,0.000057865
+etapa1_pequeno,Kadane O(n),64,,3,0.000009503
+etapa1_pequeno,Força bruta,64,,4,0.000124709
+etapa1_pequeno,Divisão e conquista,64,,4,0.000060848
+etapa1_pequeno,Kadane O(n),64,,4,0.000011445
+etapa1_pequeno,Força bruta,64,,5,0.000095131
+etapa1_pequeno,Divisão e conquista,64,,5,0.000052522
+etapa1_pequeno,Kadane O(n),64,,5,0.000009205
+etapa1_pequeno,Força bruta,128,,1,0.000404662
+etapa1_pequeno,Divisão e conquista,128,,1,0.000110803
+etapa1_pequeno,Kadane O(n),128,,1,0.000016034
+etapa1_pequeno,Força bruta,128,,2,0.000369278
+etapa1_pequeno,Divisão e conquista,128,,2,0.000111740
+etapa1_pequeno,Kadane O(n),128,,2,0.000016430
+etapa1_pequeno,Força bruta,128,,3,0.000372375
+etapa1_pequeno,Divisão e conquista,128,,3,0.000118477
+etapa1_pequeno,Kadane O(n),128,,3,0.000025413
+etapa1_pequeno,Força bruta,128,,4,0.000384607
+etapa1_pequeno,Divisão e conquista,128,,4,0.000132915
+etapa1_pequeno,Kadane O(n),128,,4,0.000016337
+etapa1_pequeno,Força bruta,128,,5,0.000438187
+etapa1_pequeno,Divisão e conquista,128,,5,0.000163822
+etapa1_pequeno,Kadane O(n),128,,5,0.000017784
+etapa1_pequeno,Força bruta,256,,1,0.001520319
+etapa1_pequeno,Divisão e conquista,256,,1,0.000256049
+etapa1_pequeno,Kadane O(n),256,,1,0.000051575
+etapa1_pequeno,Força bruta,256,,2,0.001666009
+etapa1_pequeno,Divisão e conquista,256,,2,0.000307614
+etapa1_pequeno,Kadane O(n),256,,2,0.000032098
+etapa1_pequeno,Força bruta,256,,3,0.001444979
+etapa1_pequeno,Divisão e conquista,256,,3,0.000244702
+etapa1_pequeno,Kadane O(n),256,,3,0.000033582
+etapa1_pequeno,Força bruta,256,,4,0.001537900
+etapa1_pequeno,Divisão e conquista,256,,4,0.000238692
+etapa1_pequeno,Kadane O(n),256,,4,0.000030893
+etapa1_pequeno,Força bruta,256,,5,0.001356457
+etapa1_pequeno,Divisão e conquista,256,,5,0.000242511
+etapa1_pequeno,Kadane O(n),256,,5,0.000031765
+etapa2,Força bruta,100,,1,0.000765300
+etapa2,Divisão e conquista,100,,1,0.000465785
+etapa2,Força bruta,100,,2,0.001068169
+etapa2,Divisão e conquista,100,,2,0.000609841
+etapa2,Força bruta,100,,3,0.001081802
+etapa2,Divisão e conquista,100,,3,0.000489951
+etapa2,Força bruta,100,,4,0.000728666
+etapa2,Divisão e conquista,100,,4,0.000417893
+etapa2,Força bruta,100,,5,0.001342526
+etapa2,Divisão e conquista,100,,5,0.000365208
+etapa2,Força bruta,200,,1,0.002913752
+etapa2,Divisão e conquista,200,,1,0.000734640
+etapa2,Força bruta,200,,2,0.002793506
+etapa2,Divisão e conquista,200,,2,0.000774934
+etapa2,Força bruta,200,,3,0.002904277
+etapa2,Divisão e conquista,200,,3,0.000723895
+etapa2,Força bruta,200,,4,0.002738780
+etapa2,Divisão e conquista,200,,4,0.000772255
+etapa2,Força bruta,200,,5,0.004377120
+etapa2,Divisão e conquista,200,,5,0.000739464
+etapa2,Força bruta,400,,1,0.013831060
+etapa2,Divisão e conquista,400,,1,0.001599469
+etapa2,Força bruta,400,,2,0.011353736
+etapa2,Divisão e conquista,400,,2,0.001739095
+etapa2,Força bruta,400,,3,0.011300515
+etapa2,Divisão e conquista,400,,3,0.001705771
+etapa2,Força bruta,400,,4,0.011781504
+etapa2,Divisão e conquista,400,,4,0.001711375
+etapa2,Força bruta,400,,5,0.011365993
+etapa2,Divisão e conquista,400,,5,0.001639414
+etapa2,Força bruta,800,,1,0.078264653
+etapa2,Divisão e conquista,800,,1,0.006983094
+etapa2,Força bruta,800,,2,0.059672999
+etapa2,Divisão e conquista,800,,2,0.003587000
+etapa2,Força bruta,800,,3,0.046383662
+etapa2,Divisão e conquista,800,,3,0.003570020
+etapa2,Força bruta,800,,4,0.046124784
+etapa2,Divisão e conquista,800,,4,0.003493817
+etapa2,Força bruta,800,,5,0.046046008
+etapa2,Divisão e conquista,800,,5,0.003588214
+etapa2,Força bruta,1600,,1,0.212781807
+etapa2,Divisão e conquista,1600,,1,0.013378401
+etapa2,Força bruta,1600,,2,0.190916236
+etapa2,Divisão e conquista,1600,,2,0.007860916
+etapa2,Força bruta,1600,,3,0.185772627
+etapa2,Divisão e conquista,1600,,3,0.007707954
+etapa2,Força bruta,1600,,4,0.208536500
+etapa2,Divisão e conquista,1600,,4,0.008119165
+etapa2,Força bruta,1600,,5,0.198883193
+etapa2,Divisão e conquista,1600,,5,0.008305766
+etapa2,Força bruta,3200,,1,0.811615708
+etapa2,Divisão e conquista,3200,,1,0.028027007
+etapa2,Força bruta,3200,,2,0.762066233
+etapa2,Divisão e conquista,3200,,2,0.016546535
+etapa2,Força bruta,3200,,3,0.773175822
+etapa2,Divisão e conquista,3200,,3,0.016485919
+etapa2,Força bruta,3200,,4,0.744912179
+etapa2,Divisão e conquista,3200,,4,0.017262444
+etapa2,Força bruta,3200,,5,0.798564009
+etapa2,Divisão e conquista,3200,,5,0.016665471
+etapa2,Força bruta,6400,,1,3.316234858
+etapa2,Divisão e conquista,6400,,1,0.036457042
+etapa2,Força bruta,6400,,2,3.101090577
+etapa2,Divisão e conquista,6400,,2,0.058682826
+etapa2,Força bruta,6400,,3,3.157301660
+etapa2,Divisão e conquista,6400,,3,0.036789317
+etapa2,Força bruta,6400,,4,3.118183537
+etapa2,Divisão e conquista,6400,,4,0.036236568
+etapa2,Força bruta,6400,,5,3.128202512
+etapa2,Divisão e conquista,6400,,5,0.050059607
+etapa2_pequeno,Força bruta,2,,1,0.000000425
+etapa2_pequeno,Divisão e conquista,2,,1,0.000002312
+etapa2_pequeno,Força bruta,2,,2,0.000000451
+etapa2_pequeno,Divisão e conquista,2,,2,0.000002269
+etapa2_pequeno,Força bruta,2,,3,0.000000439
+etapa2_pequeno,Divisão e conquista,2,,3,0.000002298
+etapa2_pequeno,Força bruta,2,,4,0.000000422
+etapa2_pequeno,Divisão e conquista,2,,4,0.000002218
+etapa2_pequeno,Força bruta,2,,5,0.000000487
+etapa2_pequeno,Divisão e conquista,2,,5,0.000002266
+etapa2_pequeno,Força bruta,4,,1,0.000001385
+etapa2_pequeno,Divisão e conquista,4,,1,0.000006215
+etapa2_pequeno,Força bruta,4,,2,0.000001261
+etapa2_pequeno,Divisão e conquista,4,,2,0.000006444
+etapa2_pequeno,Força bruta,4,,3,0.000001476
+etapa2_pequeno,Divisão e conquista,4,,3,0.000006415
+etapa2_pequeno,Força bruta,4,,4,0.000001232
+etapa2_pequeno,Divisão e conquista,4,,4,0.000006066
+etapa2_pequeno,Força bruta,4,,5,0.000001288
+etapa2_pequeno,Divisão e conquista,4,,5,0.000006828
+etapa2_pequeno,Força bruta,8,,1,0.000004567
+etapa2_pequeno,Divisão e conquista,8,,1,0.000017368
+etapa2_pequeno,Força bruta,8,,2,0.000004930
+etapa2_pequeno,Divisão e conquista,8,,2,0.000015957
+etapa2_pequeno,Força bruta,8,,3,0.000005065
+etapa2_pequeno,Divisão e conquista,8,,3,0.000016144
+etapa2_pequeno,Força bruta,8,,4,0.000005674
+etapa2_pequeno,Divisão e conquista,8,,4,0.000015659
+etapa2_pequeno,Força bruta,8,,5,0.000005182
+etapa2_pequeno,Divisão e conquista,8,,5,0.000017295
+etapa2_pequeno,Força bruta,16,,1,0.000018086
+etapa2_pequeno,Divisão e conquista,16,,1,0.000040127
+etapa2_pequeno,Força bruta,16,,2,0.000018461
+etapa2_pequeno,Divisão e conquista,16,,2,0.000038637
+etapa2_pequeno,Força bruta,16,,3,0.000017682
+etapa2_pequeno,Divisão e conquista,16,,3,0.000038503
+etapa2_pequeno,Força bruta,16,,4,0.000018028
+etapa2_pequeno,Divisão e conquista,16,,4,0.000045089
+etapa2_pequeno,Força bruta,16,,5,0.000017917
+etapa2_pequeno,Divisão e conquista,16,,5,0.000047231
+etapa2_pequeno,Força bruta,32,,1,0.000070785
+etapa2_pequeno,Divisão e conquista,32,,1,0.000089044
+etapa2_pequeno,Força bruta,32,,2,0.000070311
+etapa2_pequeno,Divisão e conquista,32,,2,0.000089329
+etapa2_pequeno,Força bruta,32,,3,0.000073544
+etapa2_pequeno,Divisão e conquista,32,,3,0.000094335
+etapa2_pequeno,Força bruta,32,,4,0.000070159
+etapa2_pequeno,Divisão e conquista,32,,4,0.000098086
+etapa2_pequeno,Força bruta,32,,5,0.000070459
+etapa2_pequeno,Divisão e conquista,32,,5,0.000099869
+etapa2_pequeno,Força bruta,64,,1,0.000277483
+etapa2_pequeno,Divisão e conquista,64,,1,0.000211030
+etapa2_pequeno,Força bruta,64,,2,0.000278122
+etapa2_pequeno,Divisão e conquista,64,,2,0.000202251
+etapa2_pequeno,Força bruta,64,,3,0.000284110
+etapa2_pequeno,Divisão e conquista,64,,3,0.000205890
+etapa2_pequeno,Força bruta,64,,4,0.000286792
+etapa2_pequeno,Divisão e conquista,64,,4,0.000206708
+etapa2_pequeno,Força bruta,64,,5,0.000277276
+etapa2_pequeno,Divisão e conquista,64,,5,0.000203615
+etapa2_pequeno,Força bruta,128,,1,0.001139051
+etapa2_pequeno,Divisão e conquista,128,,1,0.000452542
+etapa2_pequeno,Força bruta,128,,2,0.001415083
+etapa2_pequeno,Divisão e conquista,128,,2,0.000634855
+etapa2_pequeno,Força bruta,128,,3,0.001199352
+etapa2_pequeno,Divisão e conquista,128,,3,0.000463541
+etapa2_pequeno,Força bruta,128,,4,0.001099145
+etapa2_pequeno,Divisão e conquista,128,,4,0.000469403
+etapa2_pequeno,Força bruta,128,,5,0.001106199
+etapa2_pequeno,Divisão e conquista,128,,5,0.000470627
+etapa2_pequeno,Força bruta,256,,1,0.004482705
+etapa2_pequeno,Divisão e conquista,256,,1,0.000978713
+etapa2_pequeno,Força bruta,256,,2,0.005134796
+etapa2_pequeno,Divisão e conquista,256,,2,0.001517035
+etapa2_pequeno,Força bruta,256,,3,0.006073078
+etapa2_pequeno,Divisão e conquista,256,,3,0.001151406
+etapa2_pequeno,Força bruta,256,,4,0.004914070
+etapa2_pequeno,Divisão e conquista,256,,4,0.000994188
+etapa2_pequeno,Força bruta,256,,5,0.004808945
+etapa2_pequeno,Divisão e conquista,256,,5,0.001269323
+etapa2_limiar_1600,n = 1600,1600,2,1,0.010404331
+etapa2_limiar_1600,n = 1600,1600,2,2,0.008873294
+etapa2_limiar_1600,n = 1600,1600,2,3,0.008790479
+etapa2_limiar_1600,n = 1600,1600,2,4,0.009224512
+etapa2_limiar_1600,n = 1600,1600,2,5,0.009072684
+etapa2_limiar_1600,n = 1600,1600,2,6,0.010629475
+etapa2_limiar_1600,n = 1600,1600,2,7,0.013794246
+etapa2_limiar_1600,n = 1600,1600,2,8,0.013134372
+etapa2_limiar_1600,n = 1600,1600,2,9,0.014571552
+etapa2_limiar_1600,n = 1600,1600,2,10,0.008697202
+etapa2_limiar_1600,n = 1600,1600,2,11,0.011229981
+etapa2_limiar_1600,n = 1600,1600,2,12,0.011294099
+etapa2_limiar_1600,n = 1600,1600,2,13,0.012742547
+etapa2_limiar_1600,n = 1600,1600,2,14,0.012678805
+etapa2_limiar_1600,n = 1600,1600,2,15,0.008451482
+etapa2_limiar_1600,n = 1600,1600,3,1,0.008145930
+etapa2_limiar_1600,n = 1600,1600,3,2,0.010798167
+etapa2_limiar_1600,n = 1600,1600,3,3,0.008485409
+etapa2_limiar_1600,n = 1600,1600,3,4,0.008030235
+etapa2_limiar_1600,n = 1600,1600,3,5,0.008830926
+etapa2_limiar_1600,n = 1600,1600,3,6,0.008434918
+etapa2_limiar_1600,n = 1600,1600,3,7,0.010238688
+etapa2_limiar_1600,n = 1600,1600,3,8,0.009578221
+etapa2_limiar_1600,n = 1600,1600,3,9,0.011080965
+etapa2_limiar_1600,n = 1600,1600,3,10,0.008252002
+etapa2_limiar_1600,n = 1600,1600,3,11,0.008490448
+etapa2_limiar_1600,n = 1600,1600,3,12,0.008383871
+etapa2_limiar_1600,n = 1600,1600,3,13,0.007927645
+etapa2_limiar_1600,n = 1600,1600,3,14,0.008317967
+etapa2_limiar_1600,n = 1600,1600,3,15,0.008262625
+etapa2_limiar_1600,n = 1600,1600,4,1,0.008537904
+etapa2_limiar_1600,n = 1600,1600,4,2,0.008380823
+etapa2_limiar_1600,n = 1600,1600,4,3,0.008563603
+etapa2_limiar_1600,n = 1600,1600,4,4,0.007980131
+etapa2_limiar_1600,n = 1600,1600,4,5,0.007988489
+etapa2_limiar_1600,n = 1600,1600,4,6,0.008689450
+etapa2_limiar_1600,n = 1600,1600,4,7,0.008001008
+etapa2_limiar_1600,n = 1600,1600,4,8,0.008110926
+etapa2_limiar_1600,n = 1600,1600,4,9,0.008209276
+etapa2_limiar_1600,n = 1600,1600,4,10,0.008130479
+etapa2_limiar_1600,n = 1600,1600,4,11,0.007950694
+etapa2_limiar_1600,n = 1600,1600,4,12,0.008131646
+etapa2_limiar_1600,n = 1600,1600,4,13,0.008809873
+etapa2_limiar_1600,n = 1600,1600,4,14,0.008156066
+etapa2_limiar_1600,n = 1600,1600,4,15,0.008416944
+etapa2_limiar_1600,n = 1600,1600,6,1,0.008263745
+etapa2_limiar_1600,n = 1600,1600,6,2,0.007982719
+etapa2_limiar_1600,n = 1600,1600,6,3,0.008038231
+etapa2_limiar_1600,n = 1600,1600,6,4,0.008349027
+etapa2_limiar_1600,n = 1600,1600,6,5,0.008048594
+etapa2_limiar_1600,n = 1600,1600,6,6,0.008829546
+etapa2_limiar_1600,n = 1600,1600,6,7,0.007751868
+etapa2_limiar_1600,n = 1600,1600,6,8,0.008922651
+etapa2_limiar_1600,n = 1600,1600,6,9,0.008702733
+etapa2_limiar_1600,n = 1600,1600,6,10,0.008384419
+etapa2_limiar_1600,n = 1600,1600,6,11,0.007848526
+etapa2_limiar_1600,n = 1600,1600,6,12,0.007968355
+etapa2_limiar_1600,n = 1600,1600,6,13,0.007810253
+etapa2_limiar_1600,n = 1600,1600,6,14,0.007917772
+etapa2_limiar_1600,n = 1600,1600,6,15,0.008362919
+etapa2_limiar_1600,n = 1600,1600,8,1,0.007896836
+etapa2_limiar_1600,n = 1600,1600,8,2,0.007795840
+etapa2_limiar_1600,n = 1600,1600,8,3,0.009382435
+etapa2_limiar_1600,n = 1600,1600,8,4,0.008685373
+etapa2_limiar_1600,n = 1600,1600,8,5,0.007558154
+etapa2_limiar_1600,n = 1600,1600,8,6,0.007852295
+etapa2_limiar_1600,n = 1600,1600,8,7,0.008360185
+etapa2_limiar_1600,n = 1600,1600,8,8,0.007850663
+etapa2_limiar_1600,n = 1600,1600,8,9,0.007712499
+etapa2_limiar_1600,n = 1600,1600,8,10,0.007987792
+etapa2_limiar_1600,n = 1600,1600,8,11,0.008035424
+etapa2_limiar_1600,n = 1600,1600,8,12,0.007346410
+etapa2_limiar_1600,n = 1600,1600,8,13,0.007623714
+etapa2_limiar_1600,n = 1600,1600,8,14,0.007509415
+etapa2_limiar_1600,n = 1600,1600,8,15,0.008445817
+etapa2_limiar_1600,n = 1600,1600,12,1,0.007686156
+etapa2_limiar_1600,n = 1600,1600,12,2,0.008299550
+etapa2_limiar_1600,n = 1600,1600,12,3,0.008036698
+etapa2_limiar_1600,n = 1600,1600,12,4,0.007605378
+etapa2_limiar_1600,n = 1600,1600,12,5,0.007656692
+etapa2_limiar_1600,n = 1600,1600,12,6,0.008233530
+etapa2_limiar_1600,n = 1600,1600,12,7,0.007972375
+etapa2_limiar_1600,n = 1600,1600,12,8,0.007973576
+etapa2_limiar_1600,n = 1600,1600,12,9,0.008099739
+etapa2_limiar_1600,n = 1600,1600,12,10,0.007874147
+etapa2_limiar_1600,n = 1600,1600,12,11,0.007791207
+etapa2_limiar_1600,n = 1600,1600,12,12,0.008372434
+etapa2_limiar_1600,n = 1600,1600,12,13,0.008035339
+etapa2_limiar_1600,n = 1600,1600,12,14,0.008071681
+etapa2_limiar_1600,n = 1600,1600,12,15,0.010518389
+etapa2_limiar_1600,n = 1600,1600,16,1,0.008033593
+etapa2_limiar_1600,n = 1600,1600,16,2,0.008404076
+etapa2_limiar_1600,n = 1600,1600,16,3,0.008244507
+etapa2_limiar_1600,n = 1600,1600,16,4,0.008036003
+etapa2_limiar_1600,n = 1600,1600,16,5,0.008463106
+etapa2_limiar_1600,n = 1600,1600,16,6,0.008634831
+etapa2_limiar_1600,n = 1600,1600,16,7,0.016506644
+etapa2_limiar_1600,n = 1600,1600,16,8,0.009131814
+etapa2_limiar_1600,n = 1600,1600,16,9,0.008605396
+etapa2_limiar_1600,n = 1600,1600,16,10,0.011668040
+etapa2_limiar_1600,n = 1600,1600,16,11,0.012469332
+etapa2_limiar_1600,n = 1600,1600,16,12,0.011292160
+etapa2_limiar_1600,n = 1600,1600,16,13,0.009991213
+etapa2_limiar_1600,n = 1600,1600,16,14,0.008018246
+etapa2_limiar_1600,n = 1600,1600,16,15,0.008061908
+etapa2_limiar_1600,n = 1600,1600,24,1,0.007974671
+etapa2_limiar_1600,n = 1600,1600,24,2,0.007839846
+etapa2_limiar_1600,n = 1600,1600,24,3,0.007762340
+etapa2_limiar_1600,n = 1600,1600,24,4,0.007674075
+etapa2_limiar_1600,n = 1600,1600,24,5,0.007992702
+etapa2_limiar_1600,n = 1600,1600,24,6,0.007697270
+etapa2_limiar_1600,n = 1600,1600,24,7,0.007827041
+etapa2_limiar_1600,n = 1600,1600,24,8,0.007847296
+etapa2_limiar_1600,n = 1600,1600,24,9,0.009194159
+etapa2_limiar_1600,n = 1600,1600,24,10,0.008769865
+etapa2_limiar_1600,n = 1600,1600,24,11,0.007820932
+etapa2_limiar_1600,n = 1600,1600,24,12,0.007848384
+etapa2_limiar_1600,n = 1600,1600,24,13,0.007908542
+etapa2_limiar_1600,n = 1600,1600,24,14,0.009576645
+etapa2_limiar_1600,n = 1600,1600,24,15,0.008011282
+etapa2_limiar_1600,n = 1600,1600,32,1,0.010591015
+etapa2_limiar_1600,n = 1600,1600,32,2,0.010417499
+etapa2_limiar_1600,n = 1600,1600,32,3,0.010896618
+etapa2_limiar_1600,n = 1600,1600,32,4,0.009029518
+etapa2_limiar_1600,n = 1600,1600,32,5,0.008780906
+etapa2_limiar_1600,n = 1600,1600,32,6,0.009699947
+etapa2_limiar_1600,n = 1600,1600,32,7,0.009422641
+etapa2_limiar_1600,n = 1600,1600,32,8,0.009333922
+etapa2_limiar_1600,n = 1600,1600,32,9,0.008883183
+etapa2_limiar_1600,n = 1600,1600,32,10,0.008856917
+etapa2_limiar_1600,n = 1600,1600,32,11,0.009086323
+etapa2_limiar_1600,n = 1600,1600,32,12,0.008789175
+etapa2_limiar_1600,n = 1600,1600,32,13,0.009043948
+etapa2_limiar_1600,n = 1600,1600,32,14,0.008639738
+etapa2_limiar_1600,n = 1600,1600,32,15,0.008903809
+etapa2_limiar_1600,n = 1600,1600,48,1,0.008930990
+etapa2_limiar_1600,n = 1600,1600,48,2,0.008839617
+etapa2_limiar_1600,n = 1600,1600,48,3,0.016258389
+etapa2_limiar_1600,n = 1600,1600,48,4,0.015792643
+etapa2_limiar_1600,n = 1600,1600,48,5,0.009272583
+etapa2_limiar_1600,n = 1600,1600,48,6,0.008932337
+etapa2_limiar_1600,n = 1600,1600,48,7,0.009155880
+etapa2_limiar_1600,n = 1600,1600,48,8,0.009197048
+etapa2_limiar_1600,n = 1600,1600,48,9,0.009116224
+etapa2_limiar_1600,n = 1600,1600,48,10,0.009236705
+etapa2_limiar_1600,n = 1600,1600,48,11,0.010065428
+etapa2_limiar_1600,n = 1600,1600,48,12,0.009154766
+etapa2_limiar_1600,n = 1600,1600,48,13,0.011894872
+etapa2_limiar_1600,n = 1600,1600,48,14,0.013922607
+etapa2_limiar_1600,n = 1600,1600,48,15,0.009150834
+etapa2_limiar_1600,n = 1600,1600,64,1,0.011800914
+etapa2_limiar_1600,n = 1600,1600,64,2,0.011631487
+etapa2_limiar_1600,n = 1600,1600,64,3,0.011835980
+etapa2_limiar_1600,n = 1600,1600,64,4,0.012252540
+etapa2_limiar_1600,n = 1600,1600,64,5,0.011575286
+etapa2_limiar_1600,n = 1600,1600,64,6,0.011660430
+etapa2_limiar_1600,n = 1600,1600,64,7,0.012447695
+etapa2_limiar_1600,n = 1600,1600,64,8,0.011768637
+etapa2_limiar_1600,n = 1600,1600,64,9,0.011933182
+etapa2_limiar_1600,n = 1600,1600,64,10,0.012512310
+etapa2_limiar_1600,n = 1600,1600,64,11,0.011814487
+etapa2_limiar_1600,n = 1600,1600,64,12,0.011372402
+etapa2_limiar_1600,n = 1600,1600,64,13,0.012076730
+etapa2_limiar_1600,n = 1600,1600,64,14,0.011777809
+etapa2_limiar_1600,n = 1600,1600,64,15,0.011836674
+etapa2_limiar_1600,n = 1600,1600,128,1,0.016960497
+etapa2_limiar_1600,n = 1600,1600,128,2,0.017858312
+etapa2_limiar_1600,n = 1600,1600,128,3,0.016938238
+etapa2_limiar_1600,n = 1600,1600,128,4,0.018384581
+etapa2_limiar_1600,n = 1600,1600,128,5,0.016898841
+etapa2_limiar_1600,n = 1600,1600,128,6,0.017961446
+etapa2_limiar_1600,n = 1600,1600,128,7,0.017472689
+etapa2_limiar_1600,n = 1600,1600,128,8,0.018476533
+etapa2_limiar_1600,n = 1600,1600,128,9,0.017184233
+etapa2_limiar_1600,n = 1600,1600,128,10,0.016648589
+etapa2_limiar_1600,n = 1600,1600,128,11,0.016558907
+etapa2_limiar_1600,n = 1600,1600,128,12,0.016830336
+etapa2_limiar_1600,n = 1600,1600,128,13,0.016955514
+etapa2_limiar_1600,n = 1600,1600,128,14,0.017077427
+etapa2_limiar_1600,n = 1600,1600,128,15,0.016598778
+etapa2_limiar_6400,n = 6400,6400,2,1,0.039242341
+etapa2_limiar_6400,n = 6400,6400,2,2,0.038423633
+etapa2_limiar_6400,n = 6400,6400,2,3,0.039150072
+etapa2_limiar_6400,n = 6400,6400,2,4,0.038710478
+etapa2_limiar_6400,n = 6400,6400,2,5,0.038562457
+etapa2_limiar_6400,n = 6400,6400,2,6,0.037643421
+etapa2_limiar_6400,n = 6400,6400,2,7,0.038868029
+etapa2_limiar_6400,n = 6400,6400,2,8,0.038327440
+etapa2_limiar_6400,n = 6400,6400,2,9,0.037642230
+etapa2_limiar_6400,n = 6400,6400,2,10,0.038751982
+etapa2_limiar_6400,n = 6400,6400,2,11,0.037881010
+etapa2_limiar_6400,n = 6400,6400,2,12,0.039478117
+etapa2_limiar_6400,n = 6400,6400,2,13,0.039342047
+etapa2_limiar_6400,n = 6400,6400,2,14,0.038623475
+etapa2_limiar_6400,n = 6400,6400,2,15,0.038923962
+etapa2_limiar_6400,n = 6400,6400,3,1,0.036912252
+etapa2_limiar_6400,n = 6400,6400,3,2,0.036893598
+etapa2_limiar_6400,n = 6400,6400,3,3,0.040711138
+etapa2_limiar_6400,n = 6400,6400,3,4,0.036114491
+etapa2_limiar_6400,n = 6400,6400,3,5,0.036793738
+etapa2_limiar_6400,n = 6400,6400,3,6,0.036287974
+etapa2_limiar_6400,n = 6400,6400,3,7,0.036942516
+etapa2_limiar_6400,n = 6400,6400,3,8,0.038336409
+etapa2_limiar_6400,n = 6400,6400,3,9,0.057989768
+etapa2_limiar_6400,n = 6400,6400,3,10,0.062379498
+etapa2_limiar_6400,n = 6400,6400,3,11,0.036836012
+etapa2_limiar_6400,n = 6400,6400,3,12,0.045406387
+etapa2_limiar_6400,n = 6400,6400,3,13,0.041709286
+etapa2_limiar_6400,n = 6400,6400,3,14,0.038277036
+etapa2_limiar_6400,n = 6400,6400,3,15,0.042301319
+etapa2_limiar_6400,n = 6400,6400,4,1,0.042987765
+etapa2_limiar_6400,n = 6400,6400,4,2,0.047382723
+etapa2_limiar_6400,n = 6400,6400,4,3,0.036572060
+etapa2_limiar_6400,n = 6400,6400,4,4,0.036575982
+etapa2_limiar_6400,n = 6400,6400,4,5,0.036534178
+etapa2_limiar_6400,n = 6400,6400,4,6,0.036483624
+etapa2_limiar_6400,n = 6400,6400,4,7,0.036225118
+etapa2_limiar_6400,n = 6400,6400,4,8,0.036103844
+etapa2_limiar_6400,n = 6400,6400,4,9,0.037540475
+etapa2_limiar_6400,n = 6400,6400,4,10,0.041404862
+etapa2_limiar_6400,n = 6400,6400,4,11,0.040078391
+etapa2_limiar_6400,n = 6400,6400,4,12,0.052671719
+etapa2_limiar_6400,n = 6400,6400,4,13,0.058644344
+etapa2_limiar_6400,n = 6400,6400,4,14,0.053083131
+etapa2_limiar_6400,n = 6400,6400,4,15,0.043180523
+etapa2_limiar_6400,n = 6400,6400,6,1,0.037687252
+etapa2_limiar_6400,n = 6400,6400,6,2,0.035786566
+etapa2_limiar_6400,n = 6400,6400,6,3,0.035022947
+etapa2_limiar_6400,n = 6400,6400,6,4,0.036400987
+etapa2_limiar_6400,n = 6400,6400,6,5,0.035604883
+etapa2_limiar_6400,n = 6400,6400,6,6,0.036232376
+etapa2_limiar_6400,n = 6400,6400,6,7,0.035664333
+etapa2_limiar_6400,n = 6400,6400,6,8,0.035946582
+etapa2_limiar_6400,n = 6400,6400,6,9,0.035974314
+etapa2_limiar_6400,n = 6400,6400,6,10,0.035718228
+etapa2_limiar_6400,n = 6400,6400,6,11,0.035982046
+etapa2_limiar_6400,n = 6400,6400,6,12,0.036560976
+etapa2_limiar_6400,n = 6400,6400,6,13,0.035083292
+etapa2_limiar_6400,n = 6400,6400,6,14,0.035505939
+etapa2_limiar_6400,n = 6400,6400,6,15,0.037809479
+etapa2_limiar_6400,n = 6400,6400,8,1,0.037644792
+etapa2_limiar_6400,n = 6400,6400,8,2,0.035675348
+etapa2_limiar_6400,n = 6400,6400,8,3,0.035718815
+etapa2_limiar_6400,n = 6400,6400,8,4,0.035807628
+etapa2_limiar_6400,n = 6400,6400,8,5,0.036204465
+etapa2_limiar_6400,n = 6400,6400,8,6,0.034500538
+etapa2_limiar_6400,n = 6400,6400,8,7,0.035795167
+etapa2_limiar_6400,n = 6400,6400,8,8,0.035469211
+etapa2_limiar_6400,n = 6400,6400,8,9,0.034746675
+etapa2_limiar_6400,n = 6400,6400,8,10,0.036573176
+etapa2_limiar_6400,n = 6400,6400,8,11,0.034583101
+etapa2_limiar_6400,n = 6400,6400,8,12,0.035520403
+etapa2_limiar_6400,n = 6400,6400,8,13,0.035488535
+etapa2_limiar_6400,n = 6400,6400,8,14,0.035696977
+etapa2_limiar_6400,n = 6400,6400,8,15,0.036000960
+etapa2_limiar_6400,n = 6400,6400,12,1,0.035485468
+etapa2_limiar_6400,n = 6400,6400,12,2,0.036921620
+etapa2_limiar_6400,n = 6400,6400,12,3,0.036687882
+etapa2_limiar_6400,n = 6400,6400,12,4,0.040796717
+etapa2_limiar_6400,n = 6400,6400,12,5,0.036752268
+etapa2_limiar_6400,n = 6400,6400,12,6,0.042879002
+etapa2_limiar_6400,n = 6400,6400,12,7,0.046470963
+etapa2_limiar_6400,n = 6400,6400,12,8,0.036163524
+etapa2_limiar_6400,n = 6400,6400,12,9,0.036364209
+etapa2_limiar_6400,n = 6400,6400,12,10,0.037117835
+etapa2_limiar_6400,n = 6400,6400,12,11,0.039852410
+etapa2_limiar_6400,n = 6400,6400,12,12,0.038459300
+etapa2_limiar_6400,n = 6400,6400,12,13,0.037760371
+etapa2_limiar_6400,n = 6400,6400,12,14,0.037153921
+etapa2_limiar_6400,n = 6400,6400,12,15,0.036547371
+etapa2_limiar_6400,n = 6400,6400,16,1,0.037975224
+etapa2_limiar_6400,n = 6400,6400,16,2,0.037085979
+etapa2_limiar_6400,n = 6400,6400,16,3,0.035512929
+etapa2_limiar_6400,n = 6400,6400,16,4,0.036240330
+etapa2_limiar_6400,n = 6400,6400,16,5,0.037257038
+etapa2_limiar_6400,n = 6400,6400,16,6,0.038704668
+etapa2_limiar_6400,n = 6400,6400,16,7,0.035046650
+etapa2_limiar_6400,n = 6400,6400,16,8,0.035763331
+etapa2_limiar_6400,n = 6400,6400,16,9,0.035941741
+etapa2_limiar_6400,n = 6400,6400,16,10,0.035457424
+etapa2_limiar_6400,n = 6400,6400,16,11,0.035580560
+etapa2_limiar_6400,n = 6400,6400,16,12,0.037484389
+etapa2_limiar_6400,n = 6400,6400,16,13,0.036366826
+etapa2_limiar_6400,n = 6400,6400,16,14,0.037411473
+etapa2_limiar_6400,n = 6400,6400,16,15,0.037498141
+etapa2_limiar_6400,n = 6400,6400,24,1,0.037326695
+etapa2_limiar_6400,n = 6400,6400,24,2,0.037559045
+etapa2_limiar_6400,n = 6400,6400,24,3,0.038224698
+etapa2_limiar_6400,n = 6400,6400,24,4,0.037218073
+etapa2_limiar_6400,n = 6400,6400,24,5,0.036978884
+etapa2_limiar_6400,n = 6400,6400,24,6,0.036997496
+etapa2_limiar_6400,n = 6400,6400,24,7,0.037019640
+etapa2_limiar_6400,n = 6400,6400,24,8,0.036327681
+etapa2_limiar_6400,n = 6400,6400,24,9,0.036744463
+etapa2_limiar_6400,n = 6400,6400,24,10,0.037962712
+etapa2_limiar_6400,n = 6400,6400,24,11,0.036356434
+etapa2_limiar_6400,n = 6400,6400,24,12,0.037318602
+etapa2_limiar_6400,n = 6400,6400,24,13,0.036473235
+etapa2_limiar_6400,n = 6400,6400,24,14,0.036993313
+etapa2_limiar_6400,n = 6400,6400,24,15,0.036394006
+etapa2_limiar_6400,n = 6400,6400,32,1,0.040197669
+etapa2_limiar_6400,n = 6400,6400,32,2,0.040426578
+etapa2_limiar_6400,n = 6400,6400,32,3,0.040291029
+etapa2_limiar_6400,n = 6400,6400,32,4,0.041058389
+etapa2_limiar_6400,n = 6400,6400,32,5,0.040361499
+etapa2_limiar_6400,n = 6400,6400,32,6,0.039595546
+etapa2_limiar_6400,n = 6400,6400,32,7,0.044748156
+etapa2_limiar_6400,n = 6400,6400,32,8,0.049331584
+etapa2_limiar_6400,n = 6400,6400,32,9,0.045744885
+etapa2_limiar_6400,n = 6400,6400,32,10,0.056341416
+etapa2_limiar_6400,n = 6400,6400,32,11,0.046559822
+etapa2_limiar_6400,n = 6400,6400,32,12,0.040886965
+etapa2_limiar_6400,n = 6400,6400,32,13,0.053479934
+etapa2_limiar_6400,n = 6400,6400,32,14,0.055765027
+etapa2_limiar_6400,n = 6400,6400,32,15,0.043361616
+etapa2_limiar_6400,n = 6400,6400,48,1,0.051115341
+etapa2_limiar_6400,n = 6400,6400,48,2,0.043024018
+etapa2_limiar_6400,n = 6400,6400,48,3,0.041617352
+etapa2_limiar_6400,n = 6400,6400,48,4,0.042359827
+etapa2_limiar_6400,n = 6400,6400,48,5,0.044034555
+etapa2_limiar_6400,n = 6400,6400,48,6,0.064015212
+etapa2_limiar_6400,n = 6400,6400,48,7,0.061140765
+etapa2_limiar_6400,n = 6400,6400,48,8,0.043439847
+etapa2_limiar_6400,n = 6400,6400,48,9,0.041807086
+etapa2_limiar_6400,n = 6400,6400,48,10,0.043860646
+etapa2_limiar_6400,n = 6400,6400,48,11,0.068030466
+etapa2_limiar_6400,n = 6400,6400,48,12,0.058729636
+etapa2_limiar_6400,n = 6400,6400,48,13,0.056445712
+etapa2_limiar_6400,n = 6400,6400,48,14,0.056978475
+etapa2_limiar_6400,n = 6400,6400,48,15,0.042183530
+etapa2_limiar_6400,n = 6400,6400,64,1,0.055653554
+etapa2_limiar_6400,n = 6400,6400,64,2,0.063041683
+etapa2_limiar_6400,n = 6400,6400,64,3,0.056644817
+etapa2_limiar_6400,n = 6400,6400,64,4,0.052049060
+etapa2_limiar_6400,n = 6400,6400,64,5,0.050179626
+etapa2_limiar_6400,n = 6400,6400,64,6,0.054735106
+etapa2_limiar_6400,n = 6400,6400,64,7,0.052499180
+etapa2_limiar_6400,n = 6400,6400,64,8,0.053983660
+etapa2_limiar_6400,n = 6400,6400,64,9,0.052853571
+etapa2_limiar_6400,n = 6400,6400,64,10,0.055975954
+etapa2_limiar_6400,n = 6400,6400,64,11,0.056492627
+etapa2_limiar_6400,n = 6400,6400,64,12,0.068255935
+etapa2_limiar_6400,n = 6400,6400,64,13,0.066722009
+etapa2_limiar_6400,n = 6400,6400,64,14,0.053276428
+etapa2_limiar_6400,n = 6400,6400,64,15,0.054384712
+etapa2_limiar_6400,n = 6400,6400,128,1,0.073564274
+etapa2_limiar_6400,n = 6400,6400,128,2,0.078772015
+etapa2_limiar_6400,n = 6400,6400,128,3,0.090564854
+etapa2_limiar_6400,n = 6400,6400,128,4,0.109142036
+etapa2_limiar_6400,n = 6400,6400,128,5,0.121827546
+etapa2_limiar_6400,n = 6400,6400,128,6,0.122026240
+etapa2_limiar_6400,n = 6400,6400,128,7,0.108914466
+etapa2_limiar_6400,n = 6400,6400,128,8,0.071608699
+etapa2_limiar_6400,n = 6400,6400,128,9,0.075681316
+etapa2_limiar_6400,n = 6400,6400,128,10,0.074392978
+etapa2_limiar_6400,n = 6400,6400,128,11,0.099650727
+etapa2_limiar_6400,n = 6400,6400,128,12,0.107251699
+etapa2_limiar_6400,n = 6400,6400,128,13,0.085840542
+etapa2_limiar_6400,n = 6400,6400,128,14,0.074615075
+etapa2_limiar_6400,n = 6400,6400,128,15,0.099984159
