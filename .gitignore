@@ -1,5 +1,3 @@
+bin/
+*.class
 __pycache__/
-*.pyc
-relatorio/*.aux
-relatorio/*.log
-relatorio/*.out

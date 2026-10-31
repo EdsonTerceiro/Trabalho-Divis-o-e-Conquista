@@ -1,0 +1,320 @@
+# Casos de teste do trabalho (entrada no formato do enunciado + saida esperada + motivo).
+# Etapa 1: SAIDA = soma inicio fim (indices a partir de 0).
+#   Regra de desempate: maior soma; empatou -> menor inicio; empatou de novo -> menor fim.
+# Etapa 2: SAIDA = menor distancia. Se varios pares empatam, qualquer um vale,
+#   entao so a distancia e conferida (tolerancia 1e-6).
+
+CASO E1-01 etapa1
+MOTIVO Borda obrigatoria: vetor de tamanho 1 (caso base da recursao).
+ENTRADA
+1
+5
+SAIDA
+5 0 0
+FIM
+
+CASO E1-02 etapa1
+MOTIVO Tamanho 1 com valor negativo: a resposta nao pode ser 0 (intervalo vazio nao vale).
+ENTRADA
+1
+-7
+SAIDA
+-7 0 0
+FIM
+
+CASO E1-03 etapa1
+MOTIVO Tamanho 1 com zero.
+ENTRADA
+1
+0
+SAIDA
+0 0 0
+FIM
+
+CASO E1-04 etapa1
+MOTIVO Borda obrigatoria: so negativos. A resposta e o maior elemento sozinho; uma implementacao que comeca com melhor = 0 erra aqui.
+ENTRADA
+6
+-8 -3 -6 -2 -5 -4
+SAIDA
+-2 3 3
+FIM
+
+CASO E1-05 etapa1
+MOTIVO So negativos com empate do maior negativo: pela regra fica o de menor inicio.
+ENTRADA
+4
+-3 -1 -4 -1
+SAIDA
+-1 1 1
+FIM
+
+CASO E1-06 etapa1
+MOTIVO So positivos: a resposta e o vetor inteiro (cruza todos os niveis da recursao).
+ENTRADA
+4
+1 2 3 4
+SAIDA
+10 0 3
+FIM
+
+CASO E1-07 etapa1
+MOTIVO Exemplo classico do livro (CLRS): variacao de preco de acao, resposta no meio do vetor.
+ENTRADA
+16
+13 -3 -25 20 -3 -16 -23 18 20 -7 12 -5 -22 15 -4 7
+SAIDA
+43 7 10
+FIM
+
+CASO E1-08 etapa1
+MOTIVO Borda obrigatoria: empate entre dois intervalos disjuntos ([0,0] e [2,2]); a regra escolhe o que comeca antes.
+ENTRADA
+3
+3 -5 3
+SAIDA
+3 0 0
+FIM
+
+CASO E1-09 etapa1
+MOTIVO Empate entre tres intervalos ([0,0], [0,2] e [2,2]); com o mesmo inicio, fica o mais curto.
+ENTRADA
+3
+2 -2 2
+SAIDA
+2 0 0
+FIM
+
+CASO E1-10 etapa1
+MOTIVO Empate causado por zeros: [0,2], [1,2], [2,2], [0,3]... todos somam 5. Menor inicio = 0 e, com inicio 0, menor fim = 2. Testa se o Kadane continua o intervalo quando a soma atual e 0.
+ENTRADA
+4
+0 0 5 0
+SAIDA
+5 0 2
+FIM
+
+CASO E1-11 etapa1
+MOTIVO Todos zeros: todo intervalo empata com soma 0.
+ENTRADA
+3
+0 0 0
+SAIDA
+0 0 0
+FIM
+
+CASO E1-12 etapa1
+MOTIVO A resposta cruza exatamente o meio do vetor (testa a funcao cruzando_o_meio).
+ENTRADA
+4
+-1 4 5 -1
+SAIDA
+9 1 2
+FIM
+
+CASO E1-13 etapa1
+MOTIVO A resposta fica toda na metade direita, encostada no fim.
+ENTRADA
+4
+-5 -1 2 3
+SAIDA
+5 2 3
+FIM
+
+CASO E1-14 etapa1
+MOTIVO A resposta fica toda na metade esquerda, encostada no inicio.
+ENTRADA
+4
+2 3 -1 -5
+SAIDA
+5 0 1
+FIM
+
+CASO E1-15 etapa1
+MOTIVO Vale a pena passar por um negativo para juntar dois positivos.
+ENTRADA
+3
+5 -1 5
+SAIDA
+9 0 2
+FIM
+
+CASO E1-16 etapa1
+MOTIVO Valores grandes: a soma (4000000000) passa do limite do int do Java (2147483647). Com int o resultado sairia negativo; por isso as somas sao long.
+ENTRADA
+3
+2000000000 2000000000 -1
+SAIDA
+4000000000 0 1
+FIM
+
+CASO E1-17 etapa1
+MOTIVO Caso alternado positivo/negativo bem conhecido.
+ENTRADA
+9
+-2 1 -3 4 -1 2 1 -5 4
+SAIDA
+6 3 6
+FIM
+
+CASO E1-18 etapa1
+MOTIVO Tamanho 2, so negativos e empate.
+ENTRADA
+2
+-1 -1
+SAIDA
+-1 0 0
+FIM
+
+CASO E2-01 etapa2
+MOTIVO Menor entrada possivel (n = 2): so existe um par.
+ENTRADA
+2
+0 0
+3 4
+SAIDA
+5.000000
+FIM
+
+CASO E2-02 etapa2
+MOTIVO Pontos repetidos: distancia 0 (delta = 0 deixa a faixa vazia; nao pode dar erro).
+ENTRADA
+3
+1 1
+5 5
+1 1
+SAIDA
+0.000000
+FIM
+
+CASO E2-03 etapa2
+MOTIVO Todos com o mesmo x: a 'linha vertical' passa em cima de todos os pontos e a divisao tem que funcionar mesmo assim.
+ENTRADA
+5
+0 0
+0 10
+0 13
+0 20
+0 26
+SAIDA
+3.000000
+FIM
+
+CASO E2-04 etapa2
+MOTIVO Todos com o mesmo y (colineares na horizontal).
+ENTRADA
+4
+0 0
+7 0
+9 0
+20 0
+SAIDA
+2.000000
+FIM
+
+CASO E2-05 etapa2
+MOTIVO O par mais proximo esta um de cada lado da linha (so e encontrado na faixa).
+ENTRADA
+6
+0 0
+0 100
+9 50
+10 51
+20 0
+20 100
+SAIDA
+1.414214
+FIM
+
+CASO E2-06 etapa2
+MOTIVO Coordenadas negativas.
+ENTRADA
+4
+-5 -5
+-1 -2
+3 3
+-2 -6
+SAIDA
+3.162278
+FIM
+
+CASO E2-07 etapa2
+MOTIVO Coordenadas reais (float).
+ENTRADA
+3
+0.5 0.5
+0.6 0.5
+2.0 2.0
+SAIDA
+0.100000
+FIM
+
+CASO E2-08 etapa2
+MOTIVO Empate: quatro pares com a mesma distancia minima.
+ENTRADA
+4
+0 0
+0 1
+1 0
+1 1
+SAIDA
+1.000000
+FIM
+
+CASO E2-09 etapa2
+MOTIVO Grade 3x3: muitos pontos na faixa e muitos empates (testa o limite de 7 vizinhos).
+ENTRADA
+9
+0 0
+0 1
+0 2
+1 0
+1 1
+1 2
+2 0
+2 1
+2 2
+SAIDA
+1.000000
+FIM
+
+CASO E2-10 etapa2
+MOTIVO Pontos colineares na diagonal.
+ENTRADA
+4
+0 0
+1 1
+2 2
+4 4
+SAIDA
+1.414214
+FIM
+
+CASO E2-11 etapa2
+MOTIVO Par com o mesmo y, um ponto em cada lado e bem perto da linha da mediana.
+ENTRADA
+8
+0 0
+50 0
+100 0
+149 3
+151 3
+200 0
+250 0
+300 0
+SAIDA
+2.000000
+FIM
+
+CASO E2-12 etapa2
+MOTIVO Coordenadas grandes.
+ENTRADA
+5
+1000000 1000000
+-1000000 -1000000
+1000000 -1000000
+-1000000 1000000
+0 0
+SAIDA
+1414213.562373
+FIM
